@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>漫画名言データベース | 元ネタ・場面をあいまい検索</title>
+  <meta name="description" content="漫画・アニメの名言・格言を元ネタ解説つきで検索。キャラクター名・作品名・キーワードからあいまい検索できます。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --accent: #D85A30;
+      --accent-light: #FAECE7;
+      --accent-dark: #993C1D;
+      --text: #1a1a1a;
+      --text-muted: #666;
+      --border: #e5e0d8;
+      --bg: #faf9f6;
+      --card-bg: #ffffff;
+      --serif: 'Noto Serif JP', serif;
+      --sans: 'Noto Sans JP', sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: var(--sans);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    /* Header */
+    header {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      padding: 2.5rem 1rem 2rem;
+      text-align: center;
+    }
+    .site-title {
+      font-size: clamp(1.4rem, 4vw, 2rem);
+      font-weight: 700;
+      letter-spacing: .05em;
+      margin-bottom: .4rem;
+    }
+    .site-title span { color: var(--accent); }
+    .site-desc { font-size: .9rem; color: var(--text-muted); }
+
+    /* Search */
+    .search-section {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      padding: 1.25rem 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,.04);
+    }
+    .search-inner { max-width: 680px; margin: 0 auto; }
+    .search-box {
+      position: relative;
+      margin-bottom: .75rem;
+    }
+    .search-icon {
+      position: absolute;
+      left: .9rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 1.1rem;
+    }
+    #search {
+      width: 100%;
+      padding: .7rem 1rem .7rem 2.6rem;
+      font-size: 1rem;
+      font-family: var(--sans);
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg);
+      color: var(--text);
+      transition: border-color .15s;
+    }
+    #search:focus { outline: none; border-color: var(--accent); }
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .tag-btn {
+      padding: 3px 12px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      font-size: .78rem;
+      font-family: var(--sans);
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all .15s;
+    }
+    .tag-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .tag-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* Main */
+    main {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 4rem;
+    }
+    .stats {
+      font-size: .85rem;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+    }
+    .stats strong { color: var(--text); }
+
+    /* Cards */
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--accent);
+      border-radius: 0 8px 8px 0;
+      padding: 1.25rem 1.25rem 1rem;
+      margin-bottom: .75rem;
+      transition: box-shadow .15s;
+    }
+    .card:hover { box-shadow: 0 2px 12px rgba(0,0,0,.06); }
+    .quote {
+      font-family: var(--serif);
+      font-size: 1.05rem;
+      line-height: 1.85;
+      margin-bottom: .9rem;
+      color: var(--text);
+    }
+    .quote::before { content: '「'; color: var(--accent); font-weight: 700; }
+    .quote::after  { content: '」'; color: var(--accent); font-weight: 700; }
+    .meta {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px 10px;
+      margin-bottom: .75rem;
+      font-size: .85rem;
+    }
+    .chara { font-weight: 700; }
+    .sep { color: var(--border); }
+    .series { color: var(--text-muted); }
+    .badge {
+      background: var(--accent-light);
+      color: var(--accent-dark);
+      padding: 1px 8px;
+      border-radius: 4px;
+      font-size: .75rem;
+    }
+    .detail { font-size: .85rem; color: var(--text-muted); margin-bottom: .5rem; line-height: 1.65; }
+    .detail-label {
+      font-size: .7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      color: #aaa;
+      display: block;
+      margin-bottom: 2px;
+    }
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: .75rem;
+      padding-top: .75rem;
+      border-top: 1px solid var(--border);
+    }
+    .tags { display: flex; flex-wrap: wrap; gap: 4px; }
+    .qtag {
+      padding: 2px 8px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      font-size: .72rem;
+      color: var(--text-muted);
+    }
+    .copy-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 4px 12px;
+      font-size: .78rem;
+      font-family: var(--sans);
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all .15s;
+      white-space: nowrap;
+    }
+    .copy-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .copy-btn.copied { border-color: #639922; color: #3B6D11; }
+
+    mark.hl {
+      background: #FAC775;
+      border-radius: 2px;
+      padding: 0 2px;
+      color: #412402;
+      font-style: normal;
+    }
+
+    .empty {
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--text-muted);
+    }
+    .loading {
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--text-muted);
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: .8rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text: #e8e3da;
+        --text-muted: #998f82;
+        --border: #2e2b26;
+        --bg: #141210;
+        --card-bg: #1c1a17;
+        --accent-light: #2a1508;
+        --accent-dark: #F0997B;
+      }
+      mark.hl { background: #633806; color: #FAC775; }
+    }
+    @media (max-width: 480px) {
+      .quote { font-size: .95rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1 class="site-title">漫画<span>名言</span>データベース</h1>
+  <p class="site-desc">キャラクター・作品名・キーワードで元ネタを調べる</p>
+</header>
+
+<div class="search-section">
+  <div class="search-inner">
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input id="search" type="search" placeholder="例：諦めない、ルフィ、進撃、夢…" autocomplete="off">
+    </div>
+    <div id="tags" class="tag-row"></div>
+  </div>
+</div>
+
+<main>
+  <p class="stats" id="stats"></p>
+  <div id="results"><div class="loading">データを読み込み中...</div></div>
+</main>
+
+<footer>
+  <p>データは有志によって追加されています。<a href="https://github.com/YOUR_USERNAME/manga-meigen" target="_blank" rel="noopener">GitHubでコントリビュート ↗</a></p>
+  <p style="margin-top:.4rem">Airtableフォームから名言を投稿することもできます。<a href="YOUR_AIRTABLE_FORM_URL" target="_blank" rel="noopener">投稿フォーム ↗</a></p>
+</footer>
+
+<script>
+let ALL_DATA = [];
+let activeTag = null;
+
+async function loadData() {
+  try {
+    const res = await fetch('./data/quotes.json');
+    if (!res.ok) throw new Error('fetch failed');
+    ALL_DATA = await res.json();
+    initTags();
+    render();
+  } catch(e) {
+    document.getElementById('results').innerHTML = '<div class="empty">データの読み込みに失敗しました。</div>';
+  }
+}
+
+function initTags() {
+  const allTags = [...new Set(ALL_DATA.flatMap(d => d.tags || []))].sort();
+  const wrap = document.getElementById('tags');
+  wrap.innerHTML = ['すべて', ...allTags].map(t =>
+    `<button class="tag-btn${t === 'すべて' ? ' active' : ''}" data-tag="${t}">${t}</button>`
+  ).join('');
+  wrap.addEventListener('click', e => {
+    const btn = e.target.closest('.tag-btn');
+    if (!btn) return;
+    activeTag = btn.dataset.tag === 'すべて' ? null : btn.dataset.tag;
+    wrap.querySelectorAll('.tag-btn').forEach(b =>
+      b.classList.toggle('active', b.dataset.tag === (activeTag || 'すべて'))
+    );
+    render();
+  });
+}
+
+function fuzzyScore(item, q) {
+  if (!q) return 1;
+  const lq = q.toLowerCase();
+  const fields = [
+    { text: item.quote,   weight: 3 },
+    { text: item.chara,   weight: 5 },
+    { text: item.series,  weight: 4 },
+    { text: (item.tags || []).join(' '), weight: 3 },
+    { text: item.meaning, weight: 2 },
+    { text: item.scene,   weight: 1 },
+  ];
+  return fields.reduce((acc, f) => {
+    const s = (f.text || '').toLowerCase();
+    if (s.includes(lq)) return acc + f.weight * 100;
+    let matched = 0, ti = 0;
+    for (let si = 0; si < s.length && ti < lq.length; si++) {
+      if (s[si] === lq[ti]) { matched++; ti++; }
+    }
+    return ti === lq.length ? acc + matched * f.weight : acc;
+  }, 0);
+}
+
+function highlight(text, q) {
+  if (!q || !text) return text || '';
+  const idx = text.toLowerCase().indexOf(q.toLowerCase());
+  if (idx < 0) return text;
+  return text.slice(0, idx) +
+    `<mark class="hl">${text.slice(idx, idx + q.length)}</mark>` +
+    text.slice(idx + q.length);
+}
+
+function render() {
+  const q = document.getElementById('search').value.trim();
+  let list = ALL_DATA;
+  if (activeTag) list = list.filter(d => (d.tags || []).includes(activeTag));
+  if (q) {
+    list = list
+      .map(d => ({ ...d, _score: fuzzyScore(d, q) }))
+      .filter(d => d._score > 0)
+      .sort((a, b) => b._score - a._score);
+  }
+
+  const stats = document.getElementById('stats');
+  stats.innerHTML = `<strong>${list.length}</strong> 件の名言が見つかりました`;
+
+  const res = document.getElementById('results');
+  if (!list.length) {
+    res.innerHTML = '<div class="empty">該当する名言がありませんでした。</div>';
+    return;
+  }
+
+  res.innerHTML = list.map((d, i) => `
+    <div class="card">
+      <p class="quote">${highlight(d.quote, q)}</p>
+      <div class="meta">
+        <span class="chara">${highlight(d.chara, q)}</span>
+        <span class="sep">／</span>
+        <span class="series">${highlight(d.series, q)}</span>
+        <span class="badge">名言</span>
+      </div>
+      <div class="detail">
+        <span class="detail-label">どんな場面？</span>
+        ${highlight(d.scene, q)}
+      </div>
+      <div class="detail">
+        <span class="detail-label">意味・教訓</span>
+        ${highlight(d.meaning, q)}
+      </div>
+      <div class="card-footer">
+        <div class="tags">
+          ${(d.tags || []).map(t => `<span class="qtag">${t}</span>`).join('')}
+        </div>
+        <button class="copy-btn" data-idx="${i}" onclick="copyQuote(this, ${i})">コピー</button>
+      </div>
+    </div>
+  `).join('');
+
+  window._renderList = list;
+}
+
+function copyQuote(btn, idx) {
+  const d = window._renderList[idx];
+  const text = `「${d.quote}」\n— ${d.chara}（${d.series}）`;
+  navigator.clipboard.writeText(text).then(() => {
+    btn.textContent = 'コピーしました ✓';
+    btn.classList.add('copied');
+    setTimeout(() => {
+      btn.textContent = 'コピー';
+      btn.classList.remove('copied');
+    }, 2000);
+  });
+}
+
+document.getElementById('search').addEventListener('input', render);
+loadData();
+</script>
+</body>
+</html>
