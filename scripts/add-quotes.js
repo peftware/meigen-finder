@@ -35,7 +35,7 @@ async function addQuotes() {
           '作品名': q.series,
           '場面': q.scene,
           '意味・教訓': q.meaning,
-          'タグ': q.tags,
+          'タグ': q.tags.join(','),
           'ステータス': '公開済み',
         },
       }),
