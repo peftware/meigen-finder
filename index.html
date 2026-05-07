@@ -269,6 +269,26 @@
 </footer>
 
 <script>
+const ALIASES = {
+  'ヒロアカ': '僕のヒーローアカデミア',
+  'ハイキュー': 'ハイキュー！！',
+  'ハイキュー!!': 'ハイキュー！！',
+  '進撃': '進撃の巨人',
+  'スラダン': 'SLAM DUNK',
+  'スラムダンク': 'SLAM DUNK',
+  'ドラゴンボール': 'ドラゴンボール',
+  'DB': 'ドラゴンボール',
+  'ナルト': 'NARUTO',
+  '鋼の錬金術師': '鋼の錬金術師',
+  'ハガレン': '鋼の錬金術師',
+  '鬼滅': '鬼滅の刃',
+  '呪術': '呪術廻戦',
+  '銀魂': '銀魂',
+};
+
+function resolveAlias(q) {
+  return ALIASES[q] || q;
+}
 let ALL_DATA = [];
 let activeTag = null;
 
@@ -303,7 +323,8 @@ function initTags() {
 
 function fuzzyScore(item, q) {
   if (!q) return 1;
-  const lq = q.toLowerCase();
+  const resolved = resolveAlias(q);
+  const lq = resolved.toLowerCase();
   const fields = [
     { text: item.quote,   weight: 3 },
     { text: item.chara,   weight: 5 },
