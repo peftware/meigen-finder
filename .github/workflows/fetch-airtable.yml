@@ -23,7 +23,7 @@ jobs:
           node-version: '20'
 
       - name: 依存パッケージをインストール
-        run: npm ci
+        run: npm install
         working-directory: scripts
 
       - name: Airtable からデータを取得
