@@ -1,0 +1,42 @@
+name: Airtable から名言データを同期
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js をセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 依存パッケージをインストール
+        run: npm ci
+        working-directory: scripts
+
+      - name: Airtable からデータを取得
+        env:
+          AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
+        run: node scripts/fetch-airtable.js
+
+      - name: 変更があればコミット＆プッシュ
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/quotes.json
+          git diff --cached --quiet || git commit -m "chore: Airtableから名言データを自動更新 [skip ci]"
+          git push
