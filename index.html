@@ -386,10 +386,20 @@ function render() {
         <span class="detail-label">どんな場面？</span>
         ${highlight(d.scene, q)}
       </div>
-      <div class="detail">
+    <div class="detail">
         <span class="detail-label">意味・教訓</span>
         ${highlight(d.meaning, q)}
       </div>
+      ${(d.volume || d.episode || d.animeSeason) ? `
+      <div class="detail">
+        <span class="detail-label">出典</span>
+        ${d.volume ? `📚 ${d.volume}巻` : ''}
+        ${d.page ? ` ${d.page}ページ` : ''}
+        ${d.episode ? ` ${d.episode}話` : ''}
+        ${d.animeSeason ? ` アニメ ${d.animeSeason}期` : ''}
+        ${d.animeEpisode ? ` ${d.animeEpisode}話` : ''}
+      </div>` : ''}
+      
       <div class="card-footer">
         <div class="tags">
           ${(d.tags || []).map(t => `<span class="qtag">${t}</span>`).join('')}
