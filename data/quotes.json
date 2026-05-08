@@ -1,5 +1,22 @@
 [
   {
+    "quote": "チームメイトの信頼がトスを完成させる",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "仲間の信頼があってこそトスが生きることを語る場面",
+    "meaning": "技術だけでなく信頼関係がプレーを完成させる",
+    "tags": [
+      "信頼",
+      "トス",
+      "チーム"
+    ],
+    "volume": 19,
+    "page": 77,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
     "quote": "弱いセッターはチームを殺す",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -15,6 +32,40 @@
     "episode": "10",
     "animeSeason": 1,
     "animeEpisode": 10
+  },
+  {
+    "quote": "決めることが俺の使命だ",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "エーススパイカーとしての使命を語る場面",
+    "meaning": "自分の役割への強い使命感がエースを本物にする",
+    "tags": [
+      "使命",
+      "エース",
+      "決める"
+    ],
+    "volume": 32,
+    "page": 55,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "どんな球でも拾ってみせる",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "不可能と思えるボールに飛び込む場面",
+    "meaning": "諦めない執念が不可能を可能にする",
+    "tags": [
+      "レシーブ",
+      "執念",
+      "不可能"
+    ],
+    "volume": 5,
+    "page": 33,
+    "episode": "16",
+    "animeSeason": 1,
+    "animeEpisode": 16
   },
   {
     "quote": "ここから始まる",
@@ -68,6 +119,159 @@
     "animeEpisode": 12
   },
   {
+    "quote": "試合を支配するのがセッターの醍醐味だ",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "セッターとして試合の主導権を握る場面",
+    "meaning": "ゲームを支配する喜びがセッターを突き動かす",
+    "tags": [
+      "支配",
+      "セッター",
+      "醍醐味"
+    ],
+    "volume": 16,
+    "page": 44,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "才能は開花させるもの。センスは磨くもの",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "才能とセンスの違いを語る場面",
+    "meaning": "持って生まれた才能より磨き続けるセンスが大切",
+    "tags": [
+      "才能",
+      "センス",
+      "磨く"
+    ],
+    "volume": 9,
+    "page": 44,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
+    "quote": "勝ちたい気持ちが目覚めた",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "勝利への欲求が初めて芽生えた瞬間",
+    "meaning": "勝ちたいという感情の目覚めが人を変える",
+    "tags": [
+      "目覚め",
+      "勝利",
+      "感情"
+    ],
+    "volume": 26,
+    "page": 22,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "楽しんでバレーをするのが一番強い",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "楽しみながらバレーをする大切さを語る場面",
+    "meaning": "楽しむことが最高のパフォーマンスを生む",
+    "tags": [
+      "楽しむ",
+      "強さ",
+      "バレー"
+    ],
+    "volume": 28,
+    "page": 88,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "守備でエースになれる",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "守備の選手でもチームのエースになれると信じる場面",
+    "meaning": "どのポジションでも最高を目指せば輝ける",
+    "tags": [
+      "守備",
+      "エース",
+      "輝く"
+    ],
+    "volume": 27,
+    "page": 44,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "跳べる限り諦めない",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "体が動く限り全力で戦い続ける場面",
+    "meaning": "できる限り諦めない姿勢が最後の一点を生む",
+    "tags": [
+      "跳ぶ",
+      "諦め",
+      "最後まで"
+    ],
+    "volume": 25,
+    "page": 33,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "本気でやると面白いと初めてわかった",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "本気でバレーをやることの楽しさを知る場面",
+    "meaning": "本気で取り組むことで初めて見える世界がある",
+    "tags": [
+      "本気",
+      "楽しさ",
+      "発見"
+    ],
+    "volume": 12,
+    "page": 88,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "体が小さいなら技術で補う",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "体格のハンデを技術で補おうとする場面",
+    "meaning": "弱点を別の強みで補う発想が新しい強さを生む",
+    "tags": [
+      "技術",
+      "補う",
+      "ハンデ"
+    ],
+    "volume": 18,
+    "page": 44,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "面白くなければ意味がない",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "バレーへの純粋な楽しさへの追求を語る場面",
+    "meaning": "楽しさを失わないことが長く続ける秘訣",
+    "tags": [
+      "楽しさ",
+      "意味",
+      "継続"
+    ],
+    "volume": 12,
+    "page": 22,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
+  },
+  {
     "quote": "俺たちはまだ負けていない",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -83,6 +287,244 @@
     "episode": "24",
     "animeSeason": 1,
     "animeEpisode": 24
+  },
+  {
+    "quote": "俺のサーブで相手を崩す",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "強力なサーブでゲームの主導権を握る場面",
+    "meaning": "先制攻撃で相手の体制を崩すことが勝利への道",
+    "tags": [
+      "サーブ",
+      "崩す",
+      "主導権"
+    ],
+    "volume": 12,
+    "page": 55,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "勝ちたいと思った瞬間から強くなれる",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "勝利への欲求が芽生えた場面",
+    "meaning": "勝ちたいという気持ちが才能を覚醒させる",
+    "tags": [
+      "勝ちたい",
+      "覚醒",
+      "才能"
+    ],
+    "volume": 25,
+    "page": 88,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "黒尾がいるからバレーが続けられた",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "黒尾への感謝と友情を語る場面",
+    "meaning": "一人の存在が人生の方向を変えることがある",
+    "tags": [
+      "黒尾",
+      "友情",
+      "感謝"
+    ],
+    "volume": 27,
+    "page": 22,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "俺がいる限り絶対に床には落とさない",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "リベロとしての誇りを持ってレシーブに挑む場面",
+    "meaning": "自分の役割への誇りと責任感が最高のプレーを生む",
+    "tags": [
+      "リベロ",
+      "レシーブ",
+      "誇り"
+    ],
+    "volume": 3,
+    "page": 44,
+    "episode": "10",
+    "animeSeason": 1,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "月島と一緒に強くなりたい",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "親友と共に成長したいという思いを語る場面",
+    "meaning": "共に成長できる仲間の存在が努力を楽しくする",
+    "tags": [
+      "月島",
+      "一緒",
+      "成長"
+    ],
+    "volume": 22,
+    "page": 66,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "黒いユニフォームに誇りを持っている",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "リベロのユニフォームへの誇りを示す場面",
+    "meaning": "自分の立場や役割に誇りを持つことが力になる",
+    "tags": [
+      "ユニフォーム",
+      "誇り",
+      "リベロ"
+    ],
+    "volume": 25,
+    "page": 33,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "仲間の可能性を信じてトスを上げる",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "仲間の可能性を信じてトスを上げる場面",
+    "meaning": "仲間の可能性を信じることが最高のトスを生む",
+    "tags": [
+      "可能性",
+      "信じる",
+      "トス"
+    ],
+    "volume": 22,
+    "page": 66,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "考えすぎず、でも考え続ける",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "考えることと直感のバランスを語る場面",
+    "meaning": "考え続けながらも直感を信じるバランスが大切",
+    "tags": [
+      "考える",
+      "直感",
+      "バランス"
+    ],
+    "volume": 22,
+    "page": 33,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "双子の強みを最大限に活かす",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "双子ならではの連携を武器にする場面",
+    "meaning": "自分だけの強みを最大限に活用することが勝利の鍵",
+    "tags": [
+      "双子",
+      "強み",
+      "活用"
+    ],
+    "volume": 34,
+    "page": 44,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "仲間のために最高のスパイクを打つ",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "仲間のために全力のスパイクを打つ場面",
+    "meaning": "仲間のために戦う時、人は限界を超えられる",
+    "tags": [
+      "仲間",
+      "スパイク",
+      "限界"
+    ],
+    "volume": 31,
+    "page": 44,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "ブロックに人生を賭けてみる",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "ブロックを極めることに情熱を見出す場面",
+    "meaning": "一つのことに全力を注ぐことで人生が輝く",
+    "tags": [
+      "ブロック",
+      "情熱",
+      "人生"
+    ],
+    "volume": 16,
+    "page": 44,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "兄ちゃんのトスが一番打ちやすい",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "双子の兄侑へのトスへの絶大な信頼を語る場面",
+    "meaning": "最も信頼できる相手との連携が最高のパフォーマンスを生む",
+    "tags": [
+      "侑",
+      "信頼",
+      "トス"
+    ],
+    "volume": 32,
+    "page": 44,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "相手の動きを全部見切る",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "卓越した観察力で相手を読み切る場面",
+    "meaning": "高い観察力が試合を支配する力を生む",
+    "tags": [
+      "観察",
+      "読む",
+      "支配"
+    ],
+    "volume": 15,
+    "page": 77,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "諦めなければ必ずチャンスは来る",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "控えに回っても機会を待ち続ける場面",
+    "meaning": "諦めずに準備を続けることでチャンスをものにできる",
+    "tags": [
+      "チャンス",
+      "諦め",
+      "準備"
+    ],
+    "volume": 22,
+    "page": 44,
+    "episode": "63",
+    "animeSeason": 4,
+    "animeEpisode": 3
   },
   {
     "quote": "一本一本に全力を注ぐ",
@@ -153,6 +595,23 @@
     "animeEpisode": 12
   },
   {
+    "quote": "仲間が打てるように最高のレシーブをする",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "スパイカーのために完璧なレシーブを目指す場面",
+    "meaning": "仲間のために最高の準備をすることが本当のサポート",
+    "tags": [
+      "レシーブ",
+      "サポート",
+      "最高"
+    ],
+    "volume": 29,
+    "page": 66,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
     "quote": "後輩たちに恥ずかしくないプレーをする",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -170,6 +629,142 @@
     "animeEpisode": 27
   },
   {
+    "quote": "チームが勝てばそれでいい",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "チームの勝利を最優先にする場面",
+    "meaning": "個人の栄光よりチームの勝利を優先できる選手が真のチームプレーヤー",
+    "tags": [
+      "チーム",
+      "勝利",
+      "優先"
+    ],
+    "volume": 30,
+    "page": 22,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "小さい選手こそ上を目指せ",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "小柄な後輩に向けてエールを送る場面",
+    "meaning": "ハンデがある者こそより高みを目指す姿勢が大切",
+    "tags": [
+      "小柄",
+      "上を目指す",
+      "エール"
+    ],
+    "volume": 24,
+    "page": 88,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "仲間の笑顔が俺の力になる",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "チームメイトの笑顔に励まされる場面",
+    "meaning": "仲間の存在が自分の頑張る原動力になる",
+    "tags": [
+      "笑顔",
+      "仲間",
+      "力"
+    ],
+    "volume": 16,
+    "page": 44,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "チームのために空高く飛ぶ",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "チームのために跳躍力を最大限に活かす場面",
+    "meaning": "自分の強みをチームのために使うことが最高の貢献",
+    "tags": [
+      "チーム",
+      "跳躍",
+      "貢献"
+    ],
+    "volume": 17,
+    "page": 44,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "成長している実感が嬉しい",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "自分の成長を実感する場面",
+    "meaning": "成長を感じることが継続的な努力の原動力になる",
+    "tags": [
+      "成長",
+      "実感",
+      "嬉しさ"
+    ],
+    "volume": 20,
+    "page": 44,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "なんで俺が本気にならなきゃいけないんだ",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "本気になることへの抵抗感を示す場面",
+    "meaning": "本気になることへの恐れが人をシニカルにさせる",
+    "tags": [
+      "本気",
+      "抵抗",
+      "シニカル"
+    ],
+    "volume": 5,
+    "page": 22,
+    "episode": "16",
+    "animeSeason": 1,
+    "animeEpisode": 16
+  },
+  {
+    "quote": "兄ちゃんがいたから俺はバレーを始めた",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "兄への思いとバレーを始めたきっかけを語る場面",
+    "meaning": "人生の方向を変える出会いや存在がある",
+    "tags": [
+      "兄",
+      "きっかけ",
+      "家族"
+    ],
+    "volume": 9,
+    "page": 44,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
+    "quote": "エースに向いていないかもしれない。でも俺がやる",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "自分の適性への疑念を抱えながらも立ち向かう場面",
+    "meaning": "向いていないかもしれなくても挑戦することに意義がある",
+    "tags": [
+      "エース",
+      "挑戦",
+      "自己疑念"
+    ],
+    "volume": 6,
+    "page": 55,
+    "episode": "19",
+    "animeSeason": 1,
+    "animeEpisode": 19
+  },
+  {
     "quote": "強いチームには強い絆がある",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -185,6 +780,261 @@
     "episode": "22",
     "animeSeason": 1,
     "animeEpisode": 22
+  },
+  {
+    "quote": "全力で打てば必ず道は開ける",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "全力のスパイクで活路を開く場面",
+    "meaning": "全力を出し切ることが必ず突破口を生む",
+    "tags": [
+      "全力",
+      "道",
+      "突破"
+    ],
+    "volume": 33,
+    "page": 77,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "勝ちに行く気持ちが一番大事だ",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "勝利への強い意志を示す場面",
+    "meaning": "技術や戦術を超えた勝利への意志が最後に勝負を決める",
+    "tags": [
+      "勝利",
+      "意志",
+      "気持ち"
+    ],
+    "volume": 17,
+    "page": 22,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "仲間のために最高の跳躍を見せる",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "仲間のために跳躍力を最大限に発揮する場面",
+    "meaning": "仲間のために戦う時、人は最大の力を発揮できる",
+    "tags": [
+      "仲間",
+      "跳躍",
+      "全力"
+    ],
+    "volume": 28,
+    "page": 66,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "大きな体を武器にする",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "自分の体格を最大限に活かす場面",
+    "meaning": "自分の特徴を武器として磨くことが強さになる",
+    "tags": [
+      "体格",
+      "武器",
+      "個性"
+    ],
+    "volume": 3,
+    "page": 88,
+    "episode": "10",
+    "animeSeason": 1,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "セッターとして成長し続ける",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "セッターとして常に成長を求める場面",
+    "meaning": "成長を止めない姿勢が最強のセッターを作る",
+    "tags": [
+      "成長",
+      "セッター",
+      "継続"
+    ],
+    "volume": 33,
+    "page": 77,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "相手に最大のリスペクトを持って戦う",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "相手へのリスペクトを持って全力で戦う場面",
+    "meaning": "相手を尊重することが真のスポーツマンシップ",
+    "tags": [
+      "リスペクト",
+      "スポーツマンシップ",
+      "全力"
+    ],
+    "volume": 10,
+    "page": 22,
+    "episode": "30",
+    "animeSeason": 2,
+    "animeEpisode": 5
+  },
+  {
+    "quote": "小柄を武器にした選手が最強だ",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "ハンデを強みに変えることを語る場面",
+    "meaning": "弱点を強みに変えた選手が最も手強い",
+    "tags": [
+      "小柄",
+      "武器",
+      "最強"
+    ],
+    "volume": 14,
+    "page": 22,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "声を出し続けることがチームを動かす",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "声でチームを引っ張る場面",
+    "meaning": "声を出し続けることがチームの士気を高める",
+    "tags": [
+      "声",
+      "士気",
+      "チーム"
+    ],
+    "volume": 31,
+    "page": 66,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "ブロックで一点取れるのが面白い",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "ブロックの楽しさを発見した場面",
+    "meaning": "楽しさを発見することが上達の鍵になる",
+    "tags": [
+      "楽しさ",
+      "ブロック",
+      "発見"
+    ],
+    "volume": 23,
+    "page": 22,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "勝つためなら何でも考える",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "勝利のためにあらゆる策を考える場面",
+    "meaning": "勝利への貪欲な思考が新しい戦術を生む",
+    "tags": [
+      "勝利",
+      "思考",
+      "戦術"
+    ],
+    "volume": 32,
+    "page": 55,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "治と俺が最強の双子だ",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "双子の絆と強さへの誇りを語る場面",
+    "meaning": "最も信頼できる相手との絆が最大の強みになる",
+    "tags": [
+      "双子",
+      "絆",
+      "誇り"
+    ],
+    "volume": 29,
+    "page": 88,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "小さくても最強になれる",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "小柄な体格を武器にして戦う場面",
+    "meaning": "体格的なハンデは意志と技術で覆せる",
+    "tags": [
+      "小柄",
+      "最強",
+      "ハンデ"
+    ],
+    "volume": 20,
+    "page": 44,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "俺たちは音駒で戦う",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "チームへの誇りを持って戦う場面",
+    "meaning": "チームへの帰属意識と誇りが選手を強くする",
+    "tags": [
+      "音駒",
+      "誇り",
+      "チーム"
+    ],
+    "volume": 17,
+    "page": 88,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "リベロは縁の下の力持ちだ",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "目立たないが重要なリベロの役割を語る場面",
+    "meaning": "目立たない場所での貢献こそがチームを支える",
+    "tags": [
+      "リベロ",
+      "縁の下",
+      "貢献"
+    ],
+    "volume": 7,
+    "page": 55,
+    "episode": "21",
+    "animeSeason": 1,
+    "animeEpisode": 21
+  },
+  {
+    "quote": "格好悪くてもいい。最後まで諦めへんやつが一番格好ええ",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "試合終盤、チームが諦めかけたときにかけた言葉",
+    "meaning": "見た目より諦めない姿勢こそが本当のかっこよさ",
+    "tags": [
+      "諦め",
+      "かっこいい",
+      "最後まで"
+    ],
+    "volume": 33,
+    "page": 77,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
   },
   {
     "quote": "全員のために最高のプレーをする",
@@ -221,6 +1071,91 @@
     "animeEpisode": 11
   },
   {
+    "quote": "稲荷崎を背負って戦う",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "チームの代表として誇りを持って戦う場面",
+    "meaning": "チームを背負う責任感が個人を超えた力を生む",
+    "tags": [
+      "稲荷崎",
+      "責任",
+      "誇り"
+    ],
+    "volume": 32,
+    "page": 33,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "相手の思考を読むことが勝利への鍵だ",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "相手を心理的に分析する場面",
+    "meaning": "相手の思考を先読みすることが戦略的な強さを生む",
+    "tags": [
+      "読む",
+      "心理",
+      "戦略"
+    ],
+    "volume": 15,
+    "page": 66,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "福蛙を背負って戦う",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "チームの代表として誇りを持って戦う場面",
+    "meaning": "チームを背負う責任感が個人を超えた力を生む",
+    "tags": [
+      "福蛙",
+      "責任",
+      "誇り"
+    ],
+    "volume": 24,
+    "page": 88,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "縁下に引き継ぐことが俺の使命だ",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "後輩に自分のポジションを引き継ぐ場面",
+    "meaning": "次の世代に繋ぐことが先輩の大切な役割",
+    "tags": [
+      "縁下",
+      "引き継ぎ",
+      "使命"
+    ],
+    "volume": 26,
+    "page": 44,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "勝ちたい気持ちは誰にも負けない",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "控えながらも勝利への強い意志を持つ場面",
+    "meaning": "立場に関わらず勝利への渇望は持ち続けられる",
+    "tags": [
+      "勝利",
+      "意志",
+      "渇望"
+    ],
+    "volume": 11,
+    "page": 66,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
     "quote": "烏野の誇りを背負って戦う",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -236,6 +1171,23 @@
     "episode": "34",
     "animeSeason": 2,
     "animeEpisode": 9
+  },
+  {
+    "quote": "ミドルブロッカーとして最高を目指す",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "自分のポジションで最高を追求する場面",
+    "meaning": "自分のポジションに誇りを持って極めることが強さになる",
+    "tags": [
+      "ミドル",
+      "最高",
+      "ポジション"
+    ],
+    "volume": 11,
+    "page": 55,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
   },
   {
     "quote": "コートの中では俺が最強だ",
@@ -255,6 +1207,227 @@
     "animeEpisode": 10
   },
   {
+    "quote": "チームが勝つことが一番の喜びや",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "個人の活躍よりチームの勝利を喜ぶ場面",
+    "meaning": "チームの勝利を自分の喜びとする姿勢が真のチームプレーヤー",
+    "tags": [
+      "チーム",
+      "勝利",
+      "喜び"
+    ],
+    "volume": 34,
+    "page": 77,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "ゲームオーバーにならないように全力で戦う",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "ゲームの論理で試合に全力を注ぐ場面",
+    "meaning": "自分の論理で全力を尽くすことが最大のパフォーマンスを生む",
+    "tags": [
+      "全力",
+      "ゲーム",
+      "論理"
+    ],
+    "volume": 22,
+    "page": 44,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "飛ぶことが俺の答えだ",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "跳躍力こそが自分の答えであることを示す場面",
+    "meaning": "自分だけの答えを見つけることが真の強さになる",
+    "tags": [
+      "跳躍",
+      "答え",
+      "自分らしさ"
+    ],
+    "volume": 24,
+    "page": 33,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "強くなりたいと思い続けることが大事",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "継続的な向上心の大切さを語る場面",
+    "meaning": "強くなりたいという気持ちを持ち続けることが成長の源",
+    "tags": [
+      "向上心",
+      "継続",
+      "成長"
+    ],
+    "volume": 12,
+    "page": 77,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "敵を研究し尽くす",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "対戦相手を徹底的に分析する場面",
+    "meaning": "相手を知ることが勝利への最短ルートになる",
+    "tags": [
+      "分析",
+      "研究",
+      "戦略"
+    ],
+    "volume": 18,
+    "page": 44,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "練習を裏切ることは自分を裏切ることや",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "練習の大切さを語る場面",
+    "meaning": "積み重ねた練習を信じることが本番での力になる",
+    "tags": [
+      "練習",
+      "裏切り",
+      "信じる"
+    ],
+    "volume": 28,
+    "page": 22,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "仲間と一緒に勝ちたい",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "チームでの勝利への強い願いを表現する場面",
+    "meaning": "個人の勝利より仲間と共に勝つことの方が価値がある",
+    "tags": [
+      "仲間",
+      "勝利",
+      "チーム"
+    ],
+    "volume": 22,
+    "page": 22,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "俺は天才じゃない。だから努力した",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "天才の影山に対して努力で対抗してきた自分を語る場面",
+    "meaning": "天才でない者が努力で天才を超えようとする姿が美しい",
+    "tags": [
+      "天才",
+      "努力",
+      "対抗"
+    ],
+    "volume": 17,
+    "page": 55,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "バレーを通じて人間として成長したい",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "バレーを超えた人間的な成長への思いを語る場面",
+    "meaning": "スポーツを通じた人間的な成長が最大の目的",
+    "tags": [
+      "成長",
+      "人間",
+      "バレー"
+    ],
+    "volume": 28,
+    "page": 88,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "負けた経験が俺を強くした",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "過去の敗北が成長につながったことを振り返る場面",
+    "meaning": "敗北の経験こそが最大の成長の機会になる",
+    "tags": [
+      "負け",
+      "成長",
+      "経験"
+    ],
+    "volume": 19,
+    "page": 33,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "音駒のバレーは粘りだ",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "音駒のチームカラーを語る場面",
+    "meaning": "チームのスタイルを理解して体現することが強さになる",
+    "tags": [
+      "音駒",
+      "粘り",
+      "スタイル"
+    ],
+    "volume": 16,
+    "page": 44,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "兄ちゃんがいれば怖くない",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "双子の兄の存在が心の支えになっている場面",
+    "meaning": "信頼できる仲間がいれば困難も恐れない",
+    "tags": [
+      "侑",
+      "支え",
+      "信頼"
+    ],
+    "volume": 29,
+    "page": 44,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "結果だけが全てではないけど、結果は大事や",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "結果と過程のバランスを語る場面",
+    "meaning": "過程も大切だが結果への真剣な追求も欠かせない",
+    "tags": [
+      "結果",
+      "過程",
+      "バランス"
+    ],
+    "volume": 33,
+    "page": 66,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
     "quote": "一点でも多く取る。それだけ考える",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -270,6 +1443,23 @@
     "episode": "50",
     "animeSeason": 2,
     "animeEpisode": 25
+  },
+  {
+    "quote": "チームのピンチに俺が打開する",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "チームのピンチにサーブで貢献する場面",
+    "meaning": "控えの選手でも決定的な場面でチームを救える",
+    "tags": [
+      "ピンチ",
+      "貢献",
+      "サーブ"
+    ],
+    "volume": 17,
+    "page": 33,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
   },
   {
     "quote": "下手でも諦めない奴が一番怖い",
@@ -289,6 +1479,244 @@
     "animeEpisode": 6
   },
   {
+    "quote": "全員のトスを打てるセッターでいる",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "チーム全員を活かすセッターとしての矜持を語る場面",
+    "meaning": "全員の力を引き出せるリーダーが最強のチームを作る",
+    "tags": [
+      "セッター",
+      "全員",
+      "リーダー"
+    ],
+    "volume": 15,
+    "page": 44,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "仲間のために打つ",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "自分のためでなく仲間のためにスパイクを打つ場面",
+    "meaning": "誰かのために戦う時、人は最大の力を発揮できる",
+    "tags": [
+      "仲間",
+      "スパイク",
+      "利他"
+    ],
+    "volume": 19,
+    "page": 33,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "チームのために考え続ける",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "チームの戦略を考えることに貢献する場面",
+    "meaning": "考えることもチームへの貢献になる",
+    "tags": [
+      "思考",
+      "チーム",
+      "貢献"
+    ],
+    "volume": 18,
+    "page": 55,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "皮肉を言っている場合じゃなかった",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "シニカルな態度を改めて本気になる転換点",
+    "meaning": "斜に構えることをやめたとき本当の成長が始まる",
+    "tags": [
+      "皮肉",
+      "転換",
+      "成長"
+    ],
+    "volume": 14,
+    "page": 22,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "侑のトスなら何でも打てる",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "兄侑への絶対的な信頼を示す場面",
+    "meaning": "完全な信頼があれば不可能なことも可能になる",
+    "tags": [
+      "侑",
+      "信頼",
+      "不可能"
+    ],
+    "volume": 33,
+    "page": 66,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "チームのために何ができるかを常に考える",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "自分の役割を模索しながらチームに貢献しようとする場面",
+    "meaning": "チームのために考え行動することが本当のチームプレー",
+    "tags": [
+      "チーム",
+      "貢献",
+      "考える"
+    ],
+    "volume": 24,
+    "page": 55,
+    "episode": "67",
+    "animeSeason": 4,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "ツッキーに認めてもらいたい",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "親友月島に認められたいという思いを語る場面",
+    "meaning": "大切な人に認められたいという思いが努力の原動力になる",
+    "tags": [
+      "認められたい",
+      "友情",
+      "月島"
+    ],
+    "volume": 6,
+    "page": 77,
+    "episode": "19",
+    "animeSeason": 1,
+    "animeEpisode": 19
+  },
+  {
+    "quote": "勝ちに行く気持ちだけは誰にも負けへん",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "勝利への強い意志を示す場面",
+    "meaning": "技術や体格を超えた勝利への意志が勝負を決める",
+    "tags": [
+      "勝利",
+      "意志",
+      "負けない"
+    ],
+    "volume": 34,
+    "page": 88,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "バレーを好きでいられることが幸せだ",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "バレーへの純粋な愛情を語る場面",
+    "meaning": "好きなことを続けられることへの感謝と幸せ",
+    "tags": [
+      "好き",
+      "幸せ",
+      "バレー"
+    ],
+    "volume": 5,
+    "page": 88,
+    "episode": "16",
+    "animeSeason": 1,
+    "animeEpisode": 16
+  },
+  {
+    "quote": "バレーを続けてよかった",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "バレーを続けてきたことへの満足感を語る場面",
+    "meaning": "続けることで初めて得られる喜びがある",
+    "tags": [
+      "継続",
+      "満足",
+      "喜び"
+    ],
+    "volume": 28,
+    "page": 55,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "一本のレシーブで流れが変わる",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "重要な場面でのレシーブがチームを救う場面",
+    "meaning": "たった一本のプレーが試合の流れを大きく変えることがある",
+    "tags": [
+      "流れ",
+      "レシーブ",
+      "一本"
+    ],
+    "volume": 13,
+    "page": 66,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "俺もチームの一員だ",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "控えながらもチームへの帰属意識を示す場面",
+    "meaning": "出場機会に関わらずチームの一員としての誇りを持つ",
+    "tags": [
+      "チーム",
+      "帰属",
+      "誇り"
+    ],
+    "volume": 23,
+    "page": 88,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "ブロックは奥が深い",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "ブロックの技術を磨くことに情熱を見出す場面",
+    "meaning": "一つのことを深く追求することに喜びを見出せる",
+    "tags": [
+      "ブロック",
+      "奥深さ",
+      "情熱"
+    ],
+    "volume": 13,
+    "page": 55,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "怖くても打ち続ける",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "ブロックを恐れながらもスパイクを打ち続ける場面",
+    "meaning": "恐怖を抱えながらも行動し続けることが本当の勇気",
+    "tags": [
+      "恐怖",
+      "勇気",
+      "スパイク"
+    ],
+    "volume": 11,
+    "page": 88,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
     "quote": "もっと上へ。もっと高く",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -304,6 +1732,142 @@
     "episode": "25",
     "animeSeason": 1,
     "animeEpisode": 25
+  },
+  {
+    "quote": "バレーはしょせん遊びだろ",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "バレーに真剣になれない自分を正当化する場面",
+    "meaning": "本気になることへの恐れを隠す言葉の裏にある葛藤",
+    "tags": [
+      "遊び",
+      "本気",
+      "葛藤"
+    ],
+    "volume": 3,
+    "page": 44,
+    "episode": "10",
+    "animeSeason": 1,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "ブロックが怖くない。むしろ燃える",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "強力なブロックに闘志を燃やす場面",
+    "meaning": "困難を恐れず燃料にできる姿勢が強さの源",
+    "tags": [
+      "ブロック",
+      "闘志",
+      "恐怖"
+    ],
+    "volume": 28,
+    "page": 88,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "俺のトスで試合を支配する",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "トスで試合の主導権を握る場面",
+    "meaning": "セッターがゲームを支配することでチームが強くなる",
+    "tags": [
+      "トス",
+      "支配",
+      "主導権"
+    ],
+    "volume": 29,
+    "page": 77,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "どんな状況でも冷静でいられることが強さや",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "プレッシャーの中でも冷静に判断する場面",
+    "meaning": "感情に左右されず冷静でいられることが真の強さ",
+    "tags": [
+      "冷静",
+      "判断",
+      "強さ"
+    ],
+    "volume": 30,
+    "page": 55,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "俺だって試合に出たい",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "控えながらも強く試合への出場を望む場面",
+    "meaning": "控えの選手も同じ熱い思いを持っている",
+    "tags": [
+      "試合",
+      "出場",
+      "熱意"
+    ],
+    "volume": 10,
+    "page": 44,
+    "episode": "30",
+    "animeSeason": 2,
+    "animeEpisode": 5
+  },
+  {
+    "quote": "弱音を吐くなら吐いてもええ。でもコートでは出すな",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "弱音を吐くことと試合での姿勢を区別する場面",
+    "meaning": "感情を持つことは当然だが試合では切り替えることが大切",
+    "tags": [
+      "弱音",
+      "切り替え",
+      "コート"
+    ],
+    "volume": 29,
+    "page": 88,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "3年間バレーをやってきて後悔はない",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "引退を前に充実した3年間を振り返る場面",
+    "meaning": "全力でやり切ったことへの誇りと満足感",
+    "tags": [
+      "引退",
+      "後悔なし",
+      "3年間"
+    ],
+    "volume": 29,
+    "page": 88,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "縁下を信じてトスを任せた",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "後輩に大切な場面を任せる決断をする場面",
+    "meaning": "信頼して任せることが後輩の成長を促す",
+    "tags": [
+      "縁下",
+      "信頼",
+      "成長"
+    ],
+    "volume": 24,
+    "page": 88,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
   },
   {
     "quote": "3年間やってきたことを信じろ",
@@ -323,6 +1887,23 @@
     "animeEpisode": 7
   },
   {
+    "quote": "俺はセッターじゃなくてもチームの力になれる",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "控えに回っても腐らずチームを支える場面",
+    "meaning": "自分の役割が変わっても貢献する方法は必ずある",
+    "tags": [
+      "控え",
+      "貢献",
+      "役割"
+    ],
+    "volume": 6,
+    "page": 44,
+    "episode": "19",
+    "animeSeason": 1,
+    "animeEpisode": 19
+  },
+  {
     "quote": "相手を見て、最善の選択をする",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -338,6 +1919,40 @@
     "episode": "69",
     "animeSeason": 4,
     "animeEpisode": 9
+  },
+  {
+    "quote": "稲荷崎のバレーは俺たちが作る",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "チームのバレースタイルを自分たちで作り上げる場面",
+    "meaning": "チームのスタイルを自分たちで作ることが誇りになる",
+    "tags": [
+      "稲荷崎",
+      "スタイル",
+      "誇り"
+    ],
+    "volume": 28,
+    "page": 22,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "青葉城西を日本一にする",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "チームを日本一に導こうとする強い意志を示す場面",
+    "meaning": "チームのために大きな目標を掲げることがリーダーの役割",
+    "tags": [
+      "日本一",
+      "チーム",
+      "目標"
+    ],
+    "volume": 22,
+    "page": 88,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
   },
   {
     "quote": "トスは愛情だ",
@@ -357,6 +1972,57 @@
     "animeEpisode": 5
   },
   {
+    "quote": "背が高いだけじゃブロックはできない",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "ブロックの技術的な深さを語る場面",
+    "meaning": "身体的な優位だけでなく知性と技術が真の強さを生む",
+    "tags": [
+      "ブロック",
+      "技術",
+      "知性"
+    ],
+    "volume": 15,
+    "page": 77,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "頭を使えば小さくても大きくても関係ない",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "知性でハンデを覆す場面",
+    "meaning": "知恵を使えば体格差も能力差も関係なくなる",
+    "tags": [
+      "知性",
+      "ハンデ",
+      "平等"
+    ],
+    "volume": 6,
+    "page": 66,
+    "episode": "19",
+    "animeSeason": 1,
+    "animeEpisode": 19
+  },
+  {
+    "quote": "みんなと一緒に戦えることが嬉しい",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "チームメイトと共に戦う喜びを表現する場面",
+    "meaning": "仲間と共に戦うこと自体が大きな喜びになる",
+    "tags": [
+      "仲間",
+      "喜び",
+      "一緒"
+    ],
+    "volume": 26,
+    "page": 77,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
     "quote": "勝ちたいなら諦めるな",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -372,6 +2038,23 @@
     "episode": "83",
     "animeSeason": 4,
     "animeEpisode": 23
+  },
+  {
+    "quote": "チームメイトを輝かせるのがセッターの喜び",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "仲間のスパイクが決まった時の喜びを語る場面",
+    "meaning": "自分が輝くより仲間を輝かせることに喜びを見出す",
+    "tags": [
+      "セッター",
+      "喜び",
+      "仲間"
+    ],
+    "volume": 21,
+    "page": 44,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
   },
   {
     "quote": "お前たちのスパイクを信じている",
@@ -408,6 +2091,40 @@
     "animeEpisode": 12
   },
   {
+    "quote": "計算で勝てるバレーが好きだ",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "知略で相手を攻略する楽しさを語る場面",
+    "meaning": "知性を武器にすることが自分らしい戦い方になる",
+    "tags": [
+      "計算",
+      "知略",
+      "戦略"
+    ],
+    "volume": 13,
+    "page": 55,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "派手じゃなくていい。確実に繋げる",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "確実なプレーの大切さを語る場面",
+    "meaning": "派手さより確実性がチームには必要な場面がある",
+    "tags": [
+      "確実",
+      "繋ぐ",
+      "地道"
+    ],
+    "volume": 6,
+    "page": 22,
+    "episode": "19",
+    "animeSeason": 1,
+    "animeEpisode": 19
+  },
+  {
     "quote": "仲間を信じて任せる勇気",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -442,6 +2159,23 @@
     "animeEpisode": 5
   },
   {
+    "quote": "音駒を強くしてきた先輩たちへの敬意",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "チームの歴史と先輩への敬意を示す場面",
+    "meaning": "先人への敬意がチームの伝統と文化を守る",
+    "tags": [
+      "先輩",
+      "敬意",
+      "伝統"
+    ],
+    "volume": 20,
+    "page": 77,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
     "quote": "俺のトスを打てるのはお前だけだ",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -457,6 +2191,244 @@
     "episode": "7",
     "animeSeason": 1,
     "animeEpisode": 7
+  },
+  {
+    "quote": "勝つためなら頭を使う",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "知性を使って相手を攻略する場面",
+    "meaning": "力だけでなく知恵を使うことが勝利への近道になる",
+    "tags": [
+      "知恵",
+      "戦略",
+      "勝利"
+    ],
+    "volume": 21,
+    "page": 88,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "失敗しても次に活かせばいい",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "ミスをしても前向きに切り替える場面",
+    "meaning": "失敗を次への学びに変えることが成長の本質",
+    "tags": [
+      "失敗",
+      "学び",
+      "切り替え"
+    ],
+    "volume": 11,
+    "page": 44,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "負けても学べることがある",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "敗戦から多くを学ぼうとする前向きな姿勢を示す場面",
+    "meaning": "失敗や敗北からこそ大切な教訓が得られる",
+    "tags": [
+      "負け",
+      "学び",
+      "前向き"
+    ],
+    "volume": 18,
+    "page": 66,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "治のために最高のトスを上げる",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "弟のために最高のプレーをしようとする場面",
+    "meaning": "大切な人のために戦う時、人は最大の力を発揮できる",
+    "tags": [
+      "治",
+      "最高",
+      "利他"
+    ],
+    "volume": 31,
+    "page": 22,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "クリアするために考え続ける",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "ゲームをクリアするように試合の攻略を考え続ける場面",
+    "meaning": "目標達成のために考え続けることが解決策を生む",
+    "tags": [
+      "考える",
+      "クリア",
+      "解決"
+    ],
+    "volume": 14,
+    "page": 77,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "試合に出られなくても練習は手を抜かない",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "レギュラーを外れても練習に全力を注ぐ場面",
+    "meaning": "結果に関わらず全力で取り組む姿勢が本物の強さ",
+    "tags": [
+      "練習",
+      "全力",
+      "姿勢"
+    ],
+    "volume": 4,
+    "page": 66,
+    "episode": "13",
+    "animeSeason": 1,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "相手をよく見れば必ずクセがわかる",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "相手の動きを分析してブロックに活かす場面",
+    "meaning": "観察力と分析力が技術を超えた強さを生む",
+    "tags": [
+      "観察",
+      "分析",
+      "ブロック"
+    ],
+    "volume": 17,
+    "page": 44,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "チームの勝利が自分の喜びだ",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "チームの勝利を自分の喜びとする場面",
+    "meaning": "チームの勝利を自分のことのように喜べる選手が真のチームプレーヤー",
+    "tags": [
+      "チーム",
+      "勝利",
+      "喜び"
+    ],
+    "volume": 11,
+    "page": 33,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "ブロックは壁じゃない。罠だ",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "ブロックの戦略的な使い方を語る場面",
+    "meaning": "守備を攻撃の道具として使う発想の転換が強さを生む",
+    "tags": [
+      "ブロック",
+      "罠",
+      "戦略"
+    ],
+    "volume": 13,
+    "page": 44,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "稲荷崎のエースとして全力を尽くす",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "チームのエースとしての責任を果たす場面",
+    "meaning": "チームを代表する誇りと責任が最高のパフォーマンスを生む",
+    "tags": [
+      "エース",
+      "全力",
+      "稲荷崎"
+    ],
+    "volume": 29,
+    "page": 88,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "俺の読みは外れない",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "卓越した予測力への自信を示す場面",
+    "meaning": "自分の強みへの自信が最高のパフォーマンスを引き出す",
+    "tags": [
+      "読み",
+      "自信",
+      "予測"
+    ],
+    "volume": 20,
+    "page": 66,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "試合は頭を使えば有利になる",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "知略を駆使して試合を有利に進める場面",
+    "meaning": "体力や技術だけでなく知性が試合の結果を左右する",
+    "tags": [
+      "頭脳",
+      "戦略",
+      "有利"
+    ],
+    "volume": 23,
+    "page": 77,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "仲間がいるから俺は強くなれる",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "仲間の存在が自分の成長に不可欠だと実感する場面",
+    "meaning": "仲間の存在が個人の限界を超えさせてくれる",
+    "tags": [
+      "仲間",
+      "成長",
+      "支え"
+    ],
+    "volume": 30,
+    "page": 77,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "相手の上を飛ぶことが俺のバレーだ",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "跳躍力を活かした自分のスタイルを語る場面",
+    "meaning": "自分のスタイルを確立することが本物の強さになる",
+    "tags": [
+      "跳躍",
+      "スタイル",
+      "自分らしさ"
+    ],
+    "volume": 26,
+    "page": 22,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
   },
   {
     "quote": "格好悪くてもいい、勝ちにいけ",
@@ -476,6 +2448,125 @@
     "animeEpisode": 17
   },
   {
+    "quote": "バレーは二人からだ",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "最低二人いればバレーは成立すると語る場面",
+    "meaning": "チームスポーツの本質は二人以上の協力から始まる",
+    "tags": [
+      "チーム",
+      "協力",
+      "本質"
+    ],
+    "volume": 31,
+    "page": 44,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "セッターとしての誇りを胸に戦う",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "セッターとしての誇りを持って戦う場面",
+    "meaning": "自分の役割への誇りが最高のプレーを引き出す",
+    "tags": [
+      "誇り",
+      "セッター",
+      "戦う"
+    ],
+    "volume": 13,
+    "page": 77,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "チームがいるから面白いゲームができる",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "チームの存在がゲームをより面白くする場面",
+    "meaning": "仲間がいることでより高いレベルのプレーができる",
+    "tags": [
+      "チーム",
+      "ゲーム",
+      "仲間"
+    ],
+    "volume": 16,
+    "page": 33,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "レシーブは愛情だ",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "仲間のために全力でボールを拾う姿勢を語る場面",
+    "meaning": "気持ちを込めたプレーが仲間への愛情を示す",
+    "tags": [
+      "レシーブ",
+      "愛情",
+      "気持ち"
+    ],
+    "volume": 21,
+    "page": 55,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "相手を驚かせるトスが好きだ",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "予想外のトスで相手を翻弄する場面",
+    "meaning": "予測不能なプレーが相手を心理的に圧倒する",
+    "tags": [
+      "驚き",
+      "トス",
+      "翻弄"
+    ],
+    "volume": 33,
+    "page": 66,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "面白いトスを上げる",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "創造的なトスでチームを驚かせる場面",
+    "meaning": "創造性と遊び心がプレーをより高いレベルに引き上げる",
+    "tags": [
+      "トス",
+      "創造性",
+      "遊び心"
+    ],
+    "volume": 31,
+    "page": 44,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "失点しても次で取り返せばいい",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "ミスを引きずらずに切り替える場面",
+    "meaning": "失敗を引きずらず切り替える力が安定したプレーを生む",
+    "tags": [
+      "切り替え",
+      "ミス",
+      "前向き"
+    ],
+    "volume": 12,
+    "page": 77,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
+  },
+  {
     "quote": "全部拾ってみせる",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -491,6 +2582,176 @@
     "episode": "72",
     "animeSeason": 4,
     "animeEpisode": 12
+  },
+  {
+    "quote": "仲間を信じて任せる",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "仲間に重要な場面を任せる場面",
+    "meaning": "信頼して任せることがチームの力を引き出す",
+    "tags": [
+      "信頼",
+      "任せる",
+      "仲間"
+    ],
+    "volume": 33,
+    "page": 44,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "練習で拾えない球は試合でも拾えない",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "練習の重要性を語る場面",
+    "meaning": "本番での結果は練習の質と量で決まる",
+    "tags": [
+      "練習",
+      "本番",
+      "結果"
+    ],
+    "volume": 4,
+    "page": 88,
+    "episode": "13",
+    "animeSeason": 1,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "勝つために何でもする",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "勝利のためにあらゆる手を尽くす場面",
+    "meaning": "勝利への貪欲さが最後の一点を生む",
+    "tags": [
+      "勝利",
+      "貪欲",
+      "手段"
+    ],
+    "volume": 23,
+    "page": 66,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "治と一緒に戦えることが嬉しい",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "双子の弟と共に戦う喜びを表現する場面",
+    "meaning": "最愛の仲間と共に戦える喜びが最大の動力になる",
+    "tags": [
+      "治",
+      "喜び",
+      "一緒"
+    ],
+    "volume": 33,
+    "page": 55,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "いつか必ずレギュラーになる",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "レギュラーを目指して努力を続ける場面",
+    "meaning": "高い目標を持ち続けることが努力を支える",
+    "tags": [
+      "目標",
+      "レギュラー",
+      "努力"
+    ],
+    "volume": 13,
+    "page": 55,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "笑顔でプレーすることも強さだ",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "笑顔で相手にプレッシャーを与える場面",
+    "meaning": "余裕ある笑顔が相手を心理的に追い詰める",
+    "tags": [
+      "笑顔",
+      "余裕",
+      "心理"
+    ],
+    "volume": 20,
+    "page": 66,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "コートに入ったら全力でやるだけ",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "途中出場で気持ちを切り替えて全力でプレーする場面",
+    "meaning": "機会が来たときに全力を出し切ることが大切",
+    "tags": [
+      "全力",
+      "機会",
+      "切り替え"
+    ],
+    "volume": 14,
+    "page": 77,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "スパイクを打つために生まれてきた",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "スパイカーとしての使命感を語る場面",
+    "meaning": "自分の才能と使命が一致しているとき人は最大に輝く",
+    "tags": [
+      "使命",
+      "スパイク",
+      "才能"
+    ],
+    "volume": 31,
+    "page": 22,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "どんな立場でもベストを尽くす",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "どんな状況でも全力で取り組む姿勢を示す場面",
+    "meaning": "置かれた場所でベストを尽くすことが最大の誠実さ",
+    "tags": [
+      "ベスト",
+      "立場",
+      "誠実"
+    ],
+    "volume": 7,
+    "page": 22,
+    "episode": "21",
+    "animeSeason": 1,
+    "animeEpisode": 21
+  },
+  {
+    "quote": "俺は最高のセッターになる",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "最高のセッターを目指す強い意志を示す場面",
+    "meaning": "高い自己目標が継続的な成長を生む",
+    "tags": [
+      "最高",
+      "セッター",
+      "目標"
+    ],
+    "volume": 34,
+    "page": 88,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
   },
   {
     "quote": "バレーボールが好きだ",
@@ -544,6 +2805,176 @@
     "animeEpisode": 13
   },
   {
+    "quote": "逃げなくてよかった",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "困難から逃げずに立ち向かった結果を噛みしめる場面",
+    "meaning": "逃げずに立ち向かったことへの誇りが人を成長させる",
+    "tags": [
+      "逃げない",
+      "成長",
+      "誇り"
+    ],
+    "volume": 23,
+    "page": 66,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "影山よりうまくなってみせる",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "影山への対抗心を力に変える場面",
+    "meaning": "ライバルを超えようとする意志が人を高める",
+    "tags": [
+      "影山",
+      "対抗",
+      "成長"
+    ],
+    "volume": 3,
+    "page": 88,
+    "episode": "10",
+    "animeSeason": 1,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "兄ちゃんを信じてスパイクを打つ",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "兄侑のトスを完全に信頼してスパイクを打つ場面",
+    "meaning": "信頼があればこそ最高のスパイクが打てる",
+    "tags": [
+      "侑",
+      "信頼",
+      "スパイク"
+    ],
+    "volume": 30,
+    "page": 88,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "小さな体で大きな夢を持つ",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "体は小さくても大きな夢を持って挑戦する場面",
+    "meaning": "体格は夢の大きさに関係ない",
+    "tags": [
+      "夢",
+      "体格",
+      "挑戦"
+    ],
+    "volume": 19,
+    "page": 44,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "一本のスパイクに魂を込める",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "全力のスパイクを打つ場面",
+    "meaning": "一つひとつのプレーに魂を込めることが真剣なプレーヤーの証",
+    "tags": [
+      "魂",
+      "スパイク",
+      "全力"
+    ],
+    "volume": 14,
+    "page": 33,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "ツッキーと一緒に全国に行く",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "親友と共に全国大会を目指す場面",
+    "meaning": "大切な仲間と共に高い目標を追うことの喜び",
+    "tags": [
+      "月島",
+      "全国",
+      "友情"
+    ],
+    "volume": 25,
+    "page": 22,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "烏野の一員であることが誇りだ",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "チームへの愛情と誇りを示す場面",
+    "meaning": "所属するチームへの誇りが選手を強くする",
+    "tags": [
+      "烏野",
+      "誇り",
+      "愛情"
+    ],
+    "volume": 13,
+    "page": 77,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "セッターとして最後まで成長したい",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "引退まで成長を続けようとする姿勢を示す場面",
+    "meaning": "終わりまで成長を求める姿勢が人を輝かせる",
+    "tags": [
+      "成長",
+      "セッター",
+      "最後まで"
+    ],
+    "volume": 28,
+    "page": 33,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "セッターとして治を活かすのが俺の仕事",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "弟治の才能を最大限に引き出そうとする場面",
+    "meaning": "仲間の才能を引き出すことが最高のセッターの役割",
+    "tags": [
+      "セッター",
+      "治",
+      "才能"
+    ],
+    "volume": 30,
+    "page": 88,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "ツインズで最強だ",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "双子の弟治との連携を自信を持って語る場面",
+    "meaning": "最も信頼できる相手との連携が最強の武器になる",
+    "tags": [
+      "双子",
+      "連携",
+      "最強"
+    ],
+    "volume": 32,
+    "page": 44,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
     "quote": "最高のトスを上げ続けることが俺の仕事だ",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -578,6 +3009,159 @@
     "animeEpisode": 7
   },
   {
+    "quote": "怖くて当然。でも打つ",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "プレッシャーの中でサーブを打つ場面",
+    "meaning": "恐怖を感じながらも行動することが成長につながる",
+    "tags": [
+      "恐怖",
+      "勇気",
+      "サーブ"
+    ],
+    "volume": 18,
+    "page": 55,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "どんなトスでも決めてみせる",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "あらゆるトスを決定打に変える自信を示す場面",
+    "meaning": "自分の能力への自信が決定的な場面で力を発揮させる",
+    "tags": [
+      "自信",
+      "トス",
+      "決定打"
+    ],
+    "volume": 33,
+    "page": 55,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "仲間がいるから頑張れる",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "仲間の存在が努力の原動力になっている場面",
+    "meaning": "仲間の存在が個人の限界を超えさせてくれる",
+    "tags": [
+      "仲間",
+      "頑張り",
+      "支え"
+    ],
+    "volume": 21,
+    "page": 66,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "先輩として恥ずかしくない背中を見せたい",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "後輩に模範を示そうとする場面",
+    "meaning": "立場が上の人間は言葉より行動で示すべき",
+    "tags": [
+      "先輩",
+      "背中",
+      "模範"
+    ],
+    "volume": 12,
+    "page": 55,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "仲間の攻撃を活かすのが俺の仕事",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "守備でチームの攻撃を支える役割を語る場面",
+    "meaning": "サポート役に徹することがチームの強さになる",
+    "tags": [
+      "サポート",
+      "守備",
+      "仕事"
+    ],
+    "volume": 17,
+    "page": 22,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "俺の跳躍力は誰にも負けない",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "跳躍力という自分の武器に誇りを持つ場面",
+    "meaning": "自分だけの強みを持ち誇りを持って使うことが強さになる",
+    "tags": [
+      "跳躍",
+      "武器",
+      "誇り"
+    ],
+    "volume": 22,
+    "page": 66,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "攻撃は最大の守備、でも守備あっての攻撃だ",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "守備の重要性を力説する場面",
+    "meaning": "守備の安定がチームの攻撃力を最大限に引き出す",
+    "tags": [
+      "守備",
+      "攻撃",
+      "バランス"
+    ],
+    "volume": 11,
+    "page": 44,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "一度逃げた自分を許すことから始めた",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "かつて逃げ出した自分を受け入れて復帰する場面",
+    "meaning": "過去の失敗を受け入れることが前進の第一歩になる",
+    "tags": [
+      "失敗",
+      "受け入れ",
+      "復帰"
+    ],
+    "volume": 5,
+    "page": 22,
+    "episode": "16",
+    "animeSeason": 1,
+    "animeEpisode": 16
+  },
+  {
+    "quote": "一本のトスに全てを込める",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "決定的な場面で魂を込めたトスを上げる場面",
+    "meaning": "一瞬に全てを込める集中力が勝負を決める",
+    "tags": [
+      "トス",
+      "全力",
+      "集中"
+    ],
+    "volume": 25,
+    "page": 66,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
     "quote": "いつか必ず、あの舞台に立つ",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -595,6 +3179,57 @@
     "animeEpisode": 14
   },
   {
+    "quote": "俺の打ったボールが仲間を救う",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "決定打でチームを窮地から救う場面",
+    "meaning": "自分のプレーが仲間を救えるという責任感が力になる",
+    "tags": [
+      "救う",
+      "決定打",
+      "責任"
+    ],
+    "volume": 18,
+    "page": 66,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "背中を見せることがエースの仕事",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "チームを引っ張る背中を見せる場面",
+    "meaning": "言葉より行動でチームを引っ張ることがリーダーの役割",
+    "tags": [
+      "背中",
+      "エース",
+      "リーダー"
+    ],
+    "volume": 16,
+    "page": 44,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "研磨がいるから音駒は怖い",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "研磨の存在がチームの強みであることを語る場面",
+    "meaning": "一人の天才的な選手がチーム全体を変えることがある",
+    "tags": [
+      "研磨",
+      "チーム",
+      "強み"
+    ],
+    "volume": 24,
+    "page": 44,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
     "quote": "どんな球でも諦めずに追う",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -610,6 +3245,23 @@
     "episode": "74",
     "animeSeason": 4,
     "animeEpisode": 14
+  },
+  {
+    "quote": "強い相手ほど燃える",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "強い相手との対戦に闘志を燃やす場面",
+    "meaning": "強い相手を前に燃える闘志が最高のパフォーマンスを生む",
+    "tags": [
+      "強敵",
+      "闘志",
+      "燃える"
+    ],
+    "volume": 12,
+    "page": 55,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
   },
   {
     "quote": "俺のジャンプを見ていてくれ",
@@ -646,6 +3298,23 @@
     "animeEpisode": 18
   },
   {
+    "quote": "敵が強いほど面白い",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "強い敵との対戦を楽しむ場面",
+    "meaning": "強い敵を楽しめる余裕が最大のパフォーマンスを生む",
+    "tags": [
+      "強敵",
+      "楽しむ",
+      "余裕"
+    ],
+    "volume": 9,
+    "page": 44,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
     "quote": "怖くても前に出る",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -661,6 +3330,40 @@
     "episode": "44",
     "animeSeason": 2,
     "animeEpisode": 19
+  },
+  {
+    "quote": "治のスパイクを一番よく知っている",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "双子の弟治のスパイクへの深い理解を示す場面",
+    "meaning": "相手を深く理解することが最高の連携を生む",
+    "tags": [
+      "治",
+      "理解",
+      "連携"
+    ],
+    "volume": 34,
+    "page": 66,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "最後まで諦めないゲームが一番面白い",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "最後まで諦めない試合への賛辞",
+    "meaning": "最後まで諦めないことが試合を最も面白くする",
+    "tags": [
+      "諦め",
+      "最後まで",
+      "面白さ"
+    ],
+    "volume": 18,
+    "page": 44,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
   },
   {
     "quote": "チームの全員を信じてトスを上げる",
@@ -680,6 +3383,40 @@
     "animeEpisode": 25
   },
   {
+    "quote": "諦めたら終わり。最後まで食らいつく",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "どんな状況でも諦めずに食らいつく場面",
+    "meaning": "最後まで諦めない姿勢が逆転の可能性を生む",
+    "tags": [
+      "諦め",
+      "食らいつく",
+      "最後まで"
+    ],
+    "volume": 19,
+    "page": 44,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "バレーはやめられない",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "バレーへの止められない情熱を示す場面",
+    "meaning": "やめられない情熱こそが才能を最大限に発揮させる",
+    "tags": [
+      "情熱",
+      "やめられない",
+      "バレー"
+    ],
+    "volume": 29,
+    "page": 88,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
     "quote": "キャプテンとして全員を信じる",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -695,6 +3432,210 @@
     "episode": "16",
     "animeSeason": 1,
     "animeEpisode": 16
+  },
+  {
+    "quote": "稲荷崎のエースとして恥ずかしくないプレーをする",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "チームのエースとしての誇りを持ってプレーする場面",
+    "meaning": "チームを代表する責任感がパフォーマンスを高める",
+    "tags": [
+      "エース",
+      "誇り",
+      "責任"
+    ],
+    "volume": 31,
+    "page": 44,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "一点一点を丁寧に取っていく",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "地道に着実に点を積み重ねる姿勢を示す場面",
+    "meaning": "焦らず丁寧に積み重ねることが勝利への道",
+    "tags": [
+      "丁寧",
+      "着実",
+      "積み重ね"
+    ],
+    "volume": 32,
+    "page": 22,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "陰から支えることも大事な役割だ",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "表に出なくてもチームを支える役割の大切さを語る場面",
+    "meaning": "目立たない場所での貢献もチームには不可欠",
+    "tags": [
+      "陰",
+      "支え",
+      "役割"
+    ],
+    "volume": 20,
+    "page": 22,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "チームの勝利が自分の誇りだ",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "チームの勝利を自分の喜びとする場面",
+    "meaning": "個人の栄光よりチームの勝利を優先できる選手が真のキャプテン",
+    "tags": [
+      "チーム",
+      "勝利",
+      "誇り"
+    ],
+    "volume": 16,
+    "page": 33,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "最後まで諦めないセッターでいる",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "最後まで諦めない姿勢を示す場面",
+    "meaning": "最後まで諦めないセッターがチームを勝利に導く",
+    "tags": [
+      "諦め",
+      "最後まで",
+      "セッター"
+    ],
+    "volume": 20,
+    "page": 44,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "福蛙のバレーを世に知らしめる",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "チームのバレーを広く知ってもらいたいという思いを語る場面",
+    "meaning": "チームへの誇りと情熱が選手を高みに引き上げる",
+    "tags": [
+      "福蛙",
+      "誇り",
+      "情熱"
+    ],
+    "volume": 21,
+    "page": 33,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "当たり前のことを当たり前にやる。それが一番難しい",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "稲荷崎の練習中、チームメイトに基礎の大切さを語るシーン",
+    "meaning": "派手なプレーより地道な基礎の積み重ねが本当の強さを生む",
+    "tags": [
+      "基礎",
+      "努力",
+      "地道"
+    ],
+    "volume": 32,
+    "page": 44,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "弱気な自分に打ち克つ",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "精神的な弱さと戦う場面",
+    "meaning": "自分の弱さを認識して戦うことが本当の強さへの道",
+    "tags": [
+      "弱気",
+      "克服",
+      "強さ"
+    ],
+    "volume": 10,
+    "page": 44,
+    "episode": "30",
+    "animeSeason": 2,
+    "animeEpisode": 5
+  },
+  {
+    "quote": "ベンチにいても仲間を信じている",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "ベンチから仲間を信じて応援する場面",
+    "meaning": "コート外からも信頼で繋がっていることがチームの強さ",
+    "tags": [
+      "ベンチ",
+      "信頼",
+      "応援"
+    ],
+    "volume": 9,
+    "page": 22,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
+    "quote": "身長を活かさない手はない",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "自分の長所を最大限に活用する場面",
+    "meaning": "自分の強みを徹底的に磨くことが最短の成長路",
+    "tags": [
+      "身長",
+      "長所",
+      "活用"
+    ],
+    "volume": 4,
+    "page": 44,
+    "episode": "13",
+    "animeSeason": 1,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "仲間を信じてトスを上げる",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "仲間を信頼してプレーする場面",
+    "meaning": "信頼することが最高のプレーを生む",
+    "tags": [
+      "信頼",
+      "トス",
+      "仲間"
+    ],
+    "volume": 18,
+    "page": 55,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "試合に出られへんくても、練習をさぼる理由にはならへん",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "控え選手が腐りかけたとき、北が静かに諭すシーン",
+    "meaning": "結果が出なくても続けることに意味がある",
+    "tags": [
+      "継続",
+      "努力",
+      "控え"
+    ],
+    "volume": 30,
+    "page": 22,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
   },
   {
     "quote": "練習で積み上げたものが試合で出る",
@@ -714,6 +3655,193 @@
     "animeEpisode": 6
   },
   {
+    "quote": "床に落ちるくらいなら俺が落ちる",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "体を張って必死にレシーブする場面",
+    "meaning": "自分を犠牲にしてでもチームのために尽くす姿勢",
+    "tags": [
+      "犠牲",
+      "レシーブ",
+      "体を張る"
+    ],
+    "volume": 9,
+    "page": 77,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
+    "quote": "チームのために打ち続ける",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "チームのために何度でもスパイクを打ち続ける場面",
+    "meaning": "チームのために尽くす姿勢が真のエースの証",
+    "tags": [
+      "チーム",
+      "継続",
+      "エース"
+    ],
+    "volume": 30,
+    "page": 66,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "俺はまだ終わっていない",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "まだ成長できると信じて前進する場面",
+    "meaning": "自分の可能性を信じ続けることが挑戦の原動力になる",
+    "tags": [
+      "可能性",
+      "挑戦",
+      "前進"
+    ],
+    "volume": 24,
+    "page": 22,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "エースとは最後に頼られる存在だ",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "エースとしての役割と責任を自覚する場面",
+    "meaning": "エースは技術だけでなく仲間からの信頼で成り立つ",
+    "tags": [
+      "エース",
+      "信頼",
+      "責任"
+    ],
+    "volume": 7,
+    "page": 44,
+    "episode": "21",
+    "animeSeason": 1,
+    "animeEpisode": 21
+  },
+  {
+    "quote": "稲荷崎を全国一にする",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "チームを全国一にしようとする強い意志を示す場面",
+    "meaning": "高い目標を持つことがチーム全体を引き上げる",
+    "tags": [
+      "全国",
+      "目標",
+      "チーム"
+    ],
+    "volume": 30,
+    "page": 66,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "日向みたいな選手と戦いたかった",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "同じ小柄な選手として日向に共感する場面",
+    "meaning": "同じ条件のライバルとの対戦が最高の成長機会になる",
+    "tags": [
+      "日向",
+      "共感",
+      "ライバル"
+    ],
+    "volume": 23,
+    "page": 77,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "小さくても心は誰より大きい",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "体は小さくても心の強さを示す場面",
+    "meaning": "心の大きさが体格のハンデを超える",
+    "tags": [
+      "心",
+      "体格",
+      "強さ"
+    ],
+    "volume": 15,
+    "page": 88,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "猫又監督に恩返しがしたい",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "恩師への感謝と恩返しへの思いを語る場面",
+    "meaning": "恩師への感謝が選手の原動力になることがある",
+    "tags": [
+      "恩返し",
+      "感謝",
+      "恩師"
+    ],
+    "volume": 19,
+    "page": 22,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "全員のベストを引き出すのがセッターの使命だ",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "セッターとしての使命を語る場面",
+    "meaning": "仲間全員の力を最大化することが真のセッターの役割",
+    "tags": [
+      "セッター",
+      "使命",
+      "最大化"
+    ],
+    "volume": 22,
+    "page": 66,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "バレーはゲームだ",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "バレーをゲームとして楽しむ独自の視点を語る場面",
+    "meaning": "ゲームとして捉えることで純粋に楽しめる",
+    "tags": [
+      "ゲーム",
+      "楽しむ",
+      "視点"
+    ],
+    "volume": 21,
+    "page": 44,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "一瞬でいい。俺もあの景色が見たい",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "バレーに本気になる瞬間を経験した場面",
+    "meaning": "たった一瞬の本気体験が人生を変えることがある",
+    "tags": [
+      "一瞬",
+      "本気",
+      "景色"
+    ],
+    "volume": 11,
+    "page": 88,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
     "quote": "負けたくない。ただそれだけだ",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -731,6 +3859,159 @@
     "animeEpisode": 18
   },
   {
+    "quote": "理想のセッターを追い求め続ける",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "理想のセッター像を追求し続ける場面",
+    "meaning": "理想を持ち追い続けることが成長の原動力になる",
+    "tags": [
+      "理想",
+      "追求",
+      "成長"
+    ],
+    "volume": 23,
+    "page": 44,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "チームの雰囲気を作るのも仕事だ",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "ムードメーカーとしてチームを明るくする場面",
+    "meaning": "雰囲気づくりもチームへの大切な貢献のひとつ",
+    "tags": [
+      "雰囲気",
+      "ムードメーカー",
+      "貢献"
+    ],
+    "volume": 10,
+    "page": 33,
+    "episode": "30",
+    "animeSeason": 2,
+    "animeEpisode": 5
+  },
+  {
+    "quote": "ブロックを越えるのが気持ちいい",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "強力なブロックを越えたときの爽快感を表現する場面",
+    "meaning": "困難を克服したときの達成感が次への原動力になる",
+    "tags": [
+      "ブロック",
+      "克服",
+      "達成感"
+    ],
+    "volume": 28,
+    "page": 22,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "ジャンプフローターで絶対に決める",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "サーブで勝負する覚悟を決める場面",
+    "meaning": "自分の武器を信じて勝負に出ることが成長につながる",
+    "tags": [
+      "サーブ",
+      "武器",
+      "勝負"
+    ],
+    "volume": 12,
+    "page": 66,
+    "episode": "36",
+    "animeSeason": 2,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "体が動く限りコートに立つ",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "体力の限界まで戦い続ける場面",
+    "meaning": "体が動く限り諦めない姿勢が真の強さ",
+    "tags": [
+      "限界",
+      "コート",
+      "諦め"
+    ],
+    "volume": 24,
+    "page": 66,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "ゲームのように楽しんで戦う",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "試合をゲームのように楽しんでいる場面",
+    "meaning": "楽しむ気持ちがパフォーマンスを最大限に引き出す",
+    "tags": [
+      "楽しむ",
+      "ゲーム",
+      "パフォーマンス"
+    ],
+    "volume": 7,
+    "page": 88,
+    "episode": "21",
+    "animeSeason": 1,
+    "animeEpisode": 21
+  },
+  {
+    "quote": "勝ちたいという気持ちが一番大事",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "勝利への強い意志を示す場面",
+    "meaning": "技術や体格を超えた勝利への意志が最後に勝敗を決める",
+    "tags": [
+      "勝利",
+      "意志",
+      "気持ち"
+    ],
+    "volume": 34,
+    "page": 44,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "強いセッターが強いチームを作る",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "セッターの重要性を語る場面",
+    "meaning": "司令塔の質がチーム全体の強さを決定する",
+    "tags": [
+      "セッター",
+      "強さ",
+      "チーム"
+    ],
+    "volume": 20,
+    "page": 44,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "面白くなってきた",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "試合が白熱してきて本気モードになる瞬間",
+    "meaning": "本気で楽しめる瞬間に人は最大のパフォーマンスを発揮する",
+    "tags": [
+      "面白い",
+      "本気",
+      "楽しむ"
+    ],
+    "volume": 23,
+    "page": 66,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
     "quote": "コートの王様では誰もついてこない",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -746,6 +4027,23 @@
     "episode": "19",
     "animeSeason": 1,
     "animeEpisode": 19
+  },
+  {
+    "quote": "相手を尊重しながら全力で戦う",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "相手へのリスペクトを持って全力で戦う場面",
+    "meaning": "相手を尊重することと全力で戦うことは矛盾しない",
+    "tags": [
+      "尊重",
+      "全力",
+      "リスペクト"
+    ],
+    "volume": 31,
+    "page": 44,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
   },
   {
     "quote": "諦めたら試合が終わる",
@@ -782,6 +4080,193 @@
     "animeEpisode": 23
   },
   {
+    "quote": "俺は弱い。だから努力する",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "自分の弱さを認めた上で努力を誓う場面",
+    "meaning": "弱さを認識することが真の努力の出発点になる",
+    "tags": [
+      "弱さ",
+      "努力",
+      "自己認識"
+    ],
+    "volume": 8,
+    "page": 22,
+    "episode": "24",
+    "animeSeason": 1,
+    "animeEpisode": 24
+  },
+  {
+    "quote": "音駒のバレーは面白い",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "自分のチームのバレーへの愛情を語る場面",
+    "meaning": "自分のチームのスタイルを愛することが強さになる",
+    "tags": [
+      "音駒",
+      "楽しむ",
+      "スタイル"
+    ],
+    "volume": 11,
+    "page": 88,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "烏野との試合が俺を成長させた",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "烏野との試合が自分の成長につながったことを振り返る場面",
+    "meaning": "強い相手との対戦が最大の成長の機会になる",
+    "tags": [
+      "成長",
+      "烏野",
+      "対戦"
+    ],
+    "volume": 25,
+    "page": 33,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
+    "quote": "空を制するものが試合を制する",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "制空権の重要性を語る場面",
+    "meaning": "高さを支配することがバレーの勝負を決める",
+    "tags": [
+      "制空権",
+      "高さ",
+      "勝利"
+    ],
+    "volume": 13,
+    "page": 22,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "俺のジャンプサーブを見てくれ",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "強力なジャンプサーブを決める場面",
+    "meaning": "自分の武器を誇りを持って披露することが自信の証",
+    "tags": [
+      "サーブ",
+      "武器",
+      "誇り"
+    ],
+    "volume": 27,
+    "page": 66,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "プレーで観客を魅了する",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "観客を意識して魅せるプレーをする場面",
+    "meaning": "観客を楽しませる意識が自分のプレーをさらに高める",
+    "tags": [
+      "魅了",
+      "観客",
+      "魅せる"
+    ],
+    "volume": 5,
+    "page": 77,
+    "episode": "16",
+    "animeSeason": 1,
+    "animeEpisode": 16
+  },
+  {
+    "quote": "チームが信じてくれるなら俺は打てる",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "チームの信頼が自分の力になることを実感する場面",
+    "meaning": "仲間の信頼が個人のパフォーマンスを最大化する",
+    "tags": [
+      "信頼",
+      "チーム",
+      "力"
+    ],
+    "volume": 8,
+    "page": 22,
+    "episode": "24",
+    "animeSeason": 1,
+    "animeEpisode": 24
+  },
+  {
+    "quote": "チームの個性を活かすのがキャプテンの仕事",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "チームの個性を最大限に引き出す場面",
+    "meaning": "個性を活かすマネジメントが最強のチームを作る",
+    "tags": [
+      "個性",
+      "キャプテン",
+      "マネジメント"
+    ],
+    "volume": 9,
+    "page": 44,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
+    "quote": "相手より高く飛べば勝てる",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "跳躍力を武器に戦う戦略を語る場面",
+    "meaning": "自分の強みを最大化することが勝利への道",
+    "tags": [
+      "跳躍",
+      "勝利",
+      "強み"
+    ],
+    "volume": 16,
+    "page": 88,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "セッターは縁の下の力持ちで輝ける",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "セッターの縁の下の力持ちとしての役割を語る場面",
+    "meaning": "目立たない役割でも誇りを持って輝ける",
+    "tags": [
+      "縁の下",
+      "セッター",
+      "輝く"
+    ],
+    "volume": 18,
+    "page": 22,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "サーブは俺の武器だ",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "サーブという自分だけの武器を持つことの誇り",
+    "meaning": "一つの武器を極めることがチームへの貢献になる",
+    "tags": [
+      "サーブ",
+      "武器",
+      "誇り"
+    ],
+    "volume": 24,
+    "page": 88,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
     "quote": "負けた悔しさを忘れるな",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -797,6 +4282,23 @@
     "episode": "58",
     "animeSeason": 3,
     "animeEpisode": 8
+  },
+  {
+    "quote": "面白い相手と戦いたい",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "強い相手との戦いへの強い欲求を示す場面",
+    "meaning": "強い相手を求める姿勢が自分を最高レベルに引き上げる",
+    "tags": [
+      "強い相手",
+      "欲求",
+      "レベル"
+    ],
+    "volume": 17,
+    "page": 33,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
   },
   {
     "quote": "どんな球でも繋ぐのがエースの仕事じゃない。全員の仕事だ",
@@ -816,6 +4318,40 @@
     "animeEpisode": 2
   },
   {
+    "quote": "仲間の信頼に応えるトスを上げる",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "仲間の期待に応えようとする場面",
+    "meaning": "信頼に応える責任感が最高のプレーを引き出す",
+    "tags": [
+      "信頼",
+      "責任",
+      "トス"
+    ],
+    "volume": 29,
+    "page": 44,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "エースとして点を取るのが俺の仕事",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "エースとしての役割を自覚して戦う場面",
+    "meaning": "自分の役割を理解して全力を尽くすことが貢献の本質",
+    "tags": [
+      "エース",
+      "役割",
+      "得点"
+    ],
+    "volume": 34,
+    "page": 66,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
     "quote": "試合は最後まで何が起こるかわからない",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -831,6 +4367,40 @@
     "episode": "77",
     "animeSeason": 4,
     "animeEpisode": 17
+  },
+  {
+    "quote": "仲間のために声を出し続ける",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "ベンチから仲間を全力で応援する場面",
+    "meaning": "声援もチームの力になる大切なサポート",
+    "tags": [
+      "声援",
+      "サポート",
+      "仲間"
+    ],
+    "volume": 9,
+    "page": 55,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
+    "quote": "俺がいればチームは崩れない",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "守護神として自信を持つ場面",
+    "meaning": "自分の役割への強い自信がチームを安定させる",
+    "tags": [
+      "自信",
+      "守護神",
+      "安定"
+    ],
+    "volume": 8,
+    "page": 44,
+    "episode": "24",
+    "animeSeason": 1,
+    "animeEpisode": 24
   },
   {
     "quote": "バレーは一人じゃできない",
@@ -850,6 +4420,108 @@
     "animeEpisode": 16
   },
   {
+    "quote": "諦めた瞬間に本当の負けが来る",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "精神的に追い詰められた場面での自問自答",
+    "meaning": "本当の敗北は諦めた瞬間に訪れる",
+    "tags": [
+      "諦め",
+      "負け",
+      "精神"
+    ],
+    "volume": 20,
+    "page": 88,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "チームのために自分の役割を全うする",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "自分の役割を理解してチームに貢献する場面",
+    "meaning": "自分の役割を全うすることがチームへの最大の貢献",
+    "tags": [
+      "役割",
+      "チーム",
+      "貢献"
+    ],
+    "volume": 29,
+    "page": 44,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "バレーは一人じゃできひん。やから楽しい",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "チームスポーツの醍醐味を語る場面",
+    "meaning": "一人ではできないからこそ仲間と戦う喜びがある",
+    "tags": [
+      "チーム",
+      "楽しさ",
+      "仲間"
+    ],
+    "volume": 29,
+    "page": 22,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "限界を超えた先に本物の強さがある",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "限界を超えようとする場面",
+    "meaning": "限界の先にこそ本当の強さが待っている",
+    "tags": [
+      "限界",
+      "強さ",
+      "超える"
+    ],
+    "volume": 26,
+    "page": 44,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "相手の心理を読んでトスを選ぶ",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "相手の心理を読んで最善のトスを選択する場面",
+    "meaning": "心理戦を制することがセッターとしての強さ",
+    "tags": [
+      "心理",
+      "読む",
+      "トス"
+    ],
+    "volume": 14,
+    "page": 55,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "斜に構えていた自分が恥ずかしい",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "本気になれなかった過去の自分を振り返る場面",
+    "meaning": "本気になることから逃げていた自分への気づきが成長を促す",
+    "tags": [
+      "本気",
+      "恥ずかしさ",
+      "成長"
+    ],
+    "volume": 25,
+    "page": 55,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
+  },
+  {
     "quote": "コートに立てることへの感謝を忘れるな",
     "chara": "澤村大地",
     "series": "ハイキュー！！",
@@ -865,6 +4537,329 @@
     "episode": "30",
     "animeSeason": 2,
     "animeEpisode": 5
+  },
+  {
+    "quote": "魅力的なセッターとは何かを常に考える",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "セッターとしての理想像を追求する場面",
+    "meaning": "理想を持ち続けることが成長の原動力になる",
+    "tags": [
+      "魅力",
+      "セッター",
+      "理想"
+    ],
+    "volume": 10,
+    "page": 44,
+    "episode": "30",
+    "animeSeason": 2,
+    "animeEpisode": 5
+  },
+  {
+    "quote": "福蛙を全国一にしたい",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "チームを日本一に導こうとする強い意志を示す場面",
+    "meaning": "高い目標を掲げることがチーム全体を引き上げる",
+    "tags": [
+      "福蛙",
+      "全国",
+      "目標"
+    ],
+    "volume": 18,
+    "page": 22,
+    "episode": "54",
+    "animeSeason": 3,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "控えだからこそ準備を怠らない",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "いつでも出られる準備をし続ける場面",
+    "meaning": "機会が来たときのために常に準備することが大切",
+    "tags": [
+      "準備",
+      "控え",
+      "機会"
+    ],
+    "volume": 4,
+    "page": 44,
+    "episode": "13",
+    "animeSeason": 1,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "俺を中心にチームが動く",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "エースセッターとしての自信を示す場面",
+    "meaning": "中心となる選手の自信がチーム全体を引き上げる",
+    "tags": [
+      "中心",
+      "自信",
+      "セッター"
+    ],
+    "volume": 11,
+    "page": 66,
+    "episode": "33",
+    "animeSeason": 2,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "相手の弱点を見抜いて攻める",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "相手の弱点を分析して攻略する場面",
+    "meaning": "分析力が戦術の幅を広げる",
+    "tags": [
+      "弱点",
+      "分析",
+      "攻略"
+    ],
+    "volume": 14,
+    "page": 22,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "影山を信じている",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "後輩の影山を温かく見守る場面",
+    "meaning": "先輩が後輩を信じることで後輩は伸び伸びと成長できる",
+    "tags": [
+      "信頼",
+      "後輩",
+      "成長"
+    ],
+    "volume": 8,
+    "page": 22,
+    "episode": "24",
+    "animeSeason": 1,
+    "animeEpisode": 24
+  },
+  {
+    "quote": "相手より頭一つ抜け出す",
+    "chara": "宮侑",
+    "series": "ハイキュー！！",
+    "scene": "相手を上回ることへの強い意志を示す場面",
+    "meaning": "常に相手より一歩先を行く意識が勝利につながる",
+    "tags": [
+      "上回る",
+      "意識",
+      "勝利"
+    ],
+    "volume": 32,
+    "page": 33,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "セッターは攻撃の起点だ",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "セッターの役割の重要性を語る場面",
+    "meaning": "起点となるポジションの質がチーム全体の攻撃力を決める",
+    "tags": [
+      "セッター",
+      "起点",
+      "攻撃"
+    ],
+    "volume": 7,
+    "page": 22,
+    "episode": "21",
+    "animeSeason": 1,
+    "animeEpisode": 21
+  },
+  {
+    "quote": "スパイクが決まる瞬間が最高だ",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "スパイクが決まったときの喜びを表現する場面",
+    "meaning": "最高の瞬間への喜びが努力を続ける原動力になる",
+    "tags": [
+      "スパイク",
+      "喜び",
+      "瞬間"
+    ],
+    "volume": 34,
+    "page": 88,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "諦めなければ必ず道は開ける",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "困難な状況でも諦めずに前進する場面",
+    "meaning": "諦めない姿勢が必ず突破口を生み出す",
+    "tags": [
+      "諦め",
+      "道",
+      "前進"
+    ],
+    "volume": 19,
+    "page": 44,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "月島には絶対に負けたくない",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "親友の月島をライバルとして意識する場面",
+    "meaning": "最も近い存在をライバルとすることが成長を加速させる",
+    "tags": [
+      "ライバル",
+      "月島",
+      "友情"
+    ],
+    "volume": 14,
+    "page": 88,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "全力で戦って初めてわかることがある",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "全力で戦った後に新たな発見をする場面",
+    "meaning": "全力を出し切ることで初めて見えてくるものがある",
+    "tags": [
+      "全力",
+      "発見",
+      "気づき"
+    ],
+    "volume": 26,
+    "page": 66,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "小さな成功を積み重ねることが自信になる",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "小さな成功体験が自信につながる場面",
+    "meaning": "大きな自信は小さな成功の積み重ねから生まれる",
+    "tags": [
+      "自信",
+      "成功",
+      "積み重ね"
+    ],
+    "volume": 15,
+    "page": 77,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "俺は俺のやり方で強くなる",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "自分だけのスタイルを確立しようとする場面",
+    "meaning": "自分らしい成長の仕方を見つけることが大切",
+    "tags": [
+      "スタイル",
+      "成長",
+      "自分らしさ"
+    ],
+    "volume": 19,
+    "page": 66,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
+    "quote": "負けても学べる試合があった",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "敗戦から多くを学んだことを語る場面",
+    "meaning": "どんな敗戦も学びの機会として捉えることが成長につながる",
+    "tags": [
+      "負け",
+      "学び",
+      "成長"
+    ],
+    "volume": 27,
+    "page": 66,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "一本サーブを決めるだけでいい",
+    "chara": "山口忠",
+    "series": "ハイキュー！！",
+    "scene": "途中出場でサーブ一本に集中する場面",
+    "meaning": "大きなことより目の前の一つに集中することが大切",
+    "tags": [
+      "集中",
+      "サーブ",
+      "一本"
+    ],
+    "volume": 16,
+    "page": 33,
+    "episode": "48",
+    "animeSeason": 2,
+    "animeEpisode": 23
+  },
+  {
+    "quote": "俺みたいな小さな選手でも頂点に立てる",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "小柄な選手でも頂点を目指せることを示す場面",
+    "meaning": "ハンデがあっても頂点を目指す姿勢が夢を現実にする",
+    "tags": [
+      "頂点",
+      "小柄",
+      "夢"
+    ],
+    "volume": 22,
+    "page": 77,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "下に落ちることへの恐怖より上げることへの喜び",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "レシーブの喜びを語る場面",
+    "meaning": "恐怖より喜びに焦点を当てることがパフォーマンスを高める",
+    "tags": [
+      "喜び",
+      "恐怖",
+      "レシーブ"
+    ],
+    "volume": 23,
+    "page": 77,
+    "episode": "66",
+    "animeSeason": 4,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "負けを恐れんと強くなれへん",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "失敗を恐れずに挑戦することの大切さを語る場面",
+    "meaning": "負けを恐れずに挑戦することが成長への道",
+    "tags": [
+      "負け",
+      "恐れ",
+      "挑戦"
+    ],
+    "volume": 28,
+    "page": 88,
+    "episode": "69",
+    "animeSeason": 4,
+    "animeEpisode": 9
   },
   {
     "quote": "スパイカーが打ちやすいトスを追求する",
@@ -884,6 +4879,74 @@
     "animeEpisode": 24
   },
   {
+    "quote": "影山の成長が俺の誇りだ",
+    "chara": "菅原孝支",
+    "series": "ハイキュー！！",
+    "scene": "後輩の影山が成長した姿を見て喜ぶ場面",
+    "meaning": "後輩の成長を自分のことのように喜べる先輩が本物",
+    "tags": [
+      "影山",
+      "誇り",
+      "成長"
+    ],
+    "volume": 30,
+    "page": 44,
+    "episode": "76",
+    "animeSeason": 4,
+    "animeEpisode": 16
+  },
+  {
+    "quote": "一本のスパイクに全てを込める",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "魂を込めたスパイクを打つ場面",
+    "meaning": "一つのプレーに全てを込める集中力が決定打を生む",
+    "tags": [
+      "スパイク",
+      "集中",
+      "魂"
+    ],
+    "volume": 32,
+    "page": 33,
+    "episode": "73",
+    "animeSeason": 4,
+    "animeEpisode": 13
+  },
+  {
+    "quote": "弱い心に打ち勝つことが本当の強さだ",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "精神的な弱さを克服しようとする場面",
+    "meaning": "外の敵より自分の弱い心に勝つことが最大の挑戦",
+    "tags": [
+      "弱さ",
+      "精神力",
+      "克服"
+    ],
+    "volume": 9,
+    "page": 66,
+    "episode": "27",
+    "animeSeason": 1,
+    "animeEpisode": 27
+  },
+  {
+    "quote": "ブロックを越えるのがエースの仕事",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "強力なブロックに挑み続ける場面",
+    "meaning": "障害を乗り越えることがエースとしての使命",
+    "tags": [
+      "ブロック",
+      "エース",
+      "越える"
+    ],
+    "volume": 21,
+    "page": 44,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
     "quote": "俺は飛べる!",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -899,6 +4962,74 @@
     "episode": "1",
     "animeSeason": 1,
     "animeEpisode": 1
+  },
+  {
+    "quote": "仲間の信頼に応えるのがセッターの誇り",
+    "chara": "牛若優一",
+    "series": "ハイキュー！！",
+    "scene": "仲間の信頼に応えることへの誇りを示す場面",
+    "meaning": "信頼に応える責任感がセッターを強くする",
+    "tags": [
+      "信頼",
+      "誇り",
+      "責任"
+    ],
+    "volume": 15,
+    "page": 88,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "エースとして最後まで諦めない",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "試合終盤でエースとしての意地を見せる場面",
+    "meaning": "エースは諦めない姿勢でチームを引っ張る存在",
+    "tags": [
+      "エース",
+      "諦め",
+      "意地"
+    ],
+    "volume": 15,
+    "page": 55,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "諦めない限り可能性はある",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "絶体絶命の状況でも諦めない場面",
+    "meaning": "諦めない限り可能性は消えない",
+    "tags": [
+      "諦め",
+      "可能性",
+      "希望"
+    ],
+    "volume": 30,
+    "page": 22,
+    "episode": "71",
+    "animeSeason": 4,
+    "animeEpisode": 11
+  },
+  {
+    "quote": "山口がいるから俺は安心できる",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "親友の山口への信頼を示す場面",
+    "meaning": "信頼できる仲間の存在が自分の力を引き出す",
+    "tags": [
+      "山口",
+      "信頼",
+      "友情"
+    ],
+    "volume": 7,
+    "page": 77,
+    "episode": "21",
+    "animeSeason": 1,
+    "animeEpisode": 21
   },
   {
     "quote": "一本のレシーブがチームを救う",
@@ -918,6 +5049,40 @@
     "animeEpisode": 15
   },
   {
+    "quote": "兄と二人で最強のコンビだ",
+    "chara": "宮治",
+    "series": "ハイキュー！！",
+    "scene": "双子の兄との最強のコンビネーションを自信を持って語る場面",
+    "meaning": "最も信頼できる仲間との連携が最強の武器になる",
+    "tags": [
+      "侑",
+      "コンビ",
+      "最強"
+    ],
+    "volume": 29,
+    "page": 77,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "プレッシャーを楽しめる選手が強い",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "大舞台でのプレッシャーを力に変える場面",
+    "meaning": "プレッシャーを楽しめる精神力が真の強さを生む",
+    "tags": [
+      "プレッシャー",
+      "楽しむ",
+      "強さ"
+    ],
+    "volume": 14,
+    "page": 77,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
     "quote": "繋いでくれた球を、絶対に決める",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -933,6 +5098,40 @@
     "episode": "20",
     "animeSeason": 1,
     "animeEpisode": 20
+  },
+  {
+    "quote": "失敗を恐れてスパイクを打てなくなったら終わりだ",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "失敗を恐れず打ち続けることの大切さを語る場面",
+    "meaning": "失敗を恐れることが最大の失敗になる",
+    "tags": [
+      "失敗",
+      "恐怖",
+      "スパイク"
+    ],
+    "volume": 17,
+    "page": 77,
+    "episode": "51",
+    "animeSeason": 3,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "俺を信じてトスを上げてくれる仲間がいる",
+    "chara": "東峰旭",
+    "series": "ハイキュー！！",
+    "scene": "セッターの信頼に応えようとする場面",
+    "meaning": "仲間の信頼に応えようとする気持ちが力を引き出す",
+    "tags": [
+      "信頼",
+      "トス",
+      "仲間"
+    ],
+    "volume": 13,
+    "page": 44,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
   },
   {
     "quote": "俺はもっと強くなれる",
@@ -952,6 +5151,23 @@
     "animeEpisode": 11
   },
   {
+    "quote": "誰も俺を止められない",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "圧倒的な跳躍力で相手を翻弄する場面",
+    "meaning": "自分の能力への強い自信が最高のパフォーマンスを引き出す",
+    "tags": [
+      "自信",
+      "翻弄",
+      "跳躍"
+    ],
+    "volume": 21,
+    "page": 55,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
     "quote": "絶対にプロになる",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
@@ -969,6 +5185,91 @@
     "animeEpisode": 10
   },
   {
+    "quote": "俺が変わったのは仲間のおかげだ",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "仲間によって変わった自分を振り返る場面",
+    "meaning": "人は仲間との出会いによって大きく変わることができる",
+    "tags": [
+      "変化",
+      "仲間",
+      "感謝"
+    ],
+    "volume": 20,
+    "page": 77,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "自分にできることを、できる限りやる。それだけや",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "強豪校との試合前、過度に緊張するチームメイトに語りかけるシーン",
+    "meaning": "できないことを嘆くより、できることに全力を尽くす",
+    "tags": [
+      "全力",
+      "シンプル",
+      "平常心"
+    ],
+    "volume": 31,
+    "page": 55,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "リベロに生まれてよかった",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "自分のポジションへの愛情を語る場面",
+    "meaning": "自分の役割を愛することで最大のパフォーマンスが生まれる",
+    "tags": [
+      "リベロ",
+      "愛情",
+      "ポジション"
+    ],
+    "volume": 14,
+    "page": 33,
+    "episode": "42",
+    "animeSeason": 2,
+    "animeEpisode": 17
+  },
+  {
+    "quote": "俺はリベロとして日本一になる",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "リベロとしての高い目標を宣言する場面",
+    "meaning": "自分のポジションに誇りを持って最高を目指す",
+    "tags": [
+      "目標",
+      "日本一",
+      "リベロ"
+    ],
+    "volume": 15,
+    "page": 88,
+    "episode": "45",
+    "animeSeason": 2,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "退屈な試合は嫌いだ",
+    "chara": "孤爪研磨",
+    "series": "ハイキュー！！",
+    "scene": "面白い試合への強い欲求を示す場面",
+    "meaning": "高い刺激を求める姿勢が常に自分を高いレベルに置く",
+    "tags": [
+      "退屈",
+      "刺激",
+      "レベル"
+    ],
+    "volume": 19,
+    "page": 44,
+    "episode": "57",
+    "animeSeason": 3,
+    "animeEpisode": 7
+  },
+  {
     "quote": "日向、お前がいるから俺は強くなれる",
     "chara": "影山飛雄",
     "series": "ハイキュー！！",
@@ -981,6 +5282,40 @@
     ],
     "volume": 30,
     "page": 22,
+    "episode": "75",
+    "animeSeason": 4,
+    "animeEpisode": 15
+  },
+  {
+    "quote": "研磨を本気にさせることが俺の役割だ",
+    "chara": "黒尾鉄朗",
+    "series": "ハイキュー！！",
+    "scene": "研磨の才能を引き出そうとする場面",
+    "meaning": "仲間の才能を引き出すことも重要なリーダーシップ",
+    "tags": [
+      "研磨",
+      "役割",
+      "才能"
+    ],
+    "volume": 21,
+    "page": 44,
+    "episode": "62",
+    "animeSeason": 3,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "うまくいかん日も、ちゃんとやった日に変わりはない",
+    "chara": "北信介",
+    "series": "ハイキュー！！",
+    "scene": "練習がうまくいかず落ち込む後輩に声をかけるシーン",
+    "meaning": "結果が出なくても努力した事実は消えない",
+    "tags": [
+      "努力",
+      "継続",
+      "前向き"
+    ],
+    "volume": 34,
+    "page": 33,
     "episode": "75",
     "animeSeason": 4,
     "animeEpisode": 15
@@ -1001,6 +5336,91 @@
     "episode": "46",
     "animeSeason": 2,
     "animeEpisode": 21
+  },
+  {
+    "quote": "どんな角度から来ても対応できる",
+    "chara": "西谷夕",
+    "series": "ハイキュー！！",
+    "scene": "あらゆるボールに対応できる自信を持つ場面",
+    "meaning": "徹底的な準備と経験が対応力を高める",
+    "tags": [
+      "対応力",
+      "準備",
+      "経験"
+    ],
+    "volume": 10,
+    "page": 55,
+    "episode": "30",
+    "animeSeason": 2,
+    "animeEpisode": 5
+  },
+  {
+    "quote": "影山に負けたくない",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "後輩の影山への対抗心を燃やす場面",
+    "meaning": "強いライバルの存在が自分を極限まで高める",
+    "tags": [
+      "影山",
+      "ライバル",
+      "対抗心"
+    ],
+    "volume": 13,
+    "page": 88,
+    "episode": "39",
+    "animeSeason": 2,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "コートに立つ以上は常に最高を目指す",
+    "chara": "及川徹",
+    "series": "ハイキュー！！",
+    "scene": "高い基準を常に維持する姿勢を示す場面",
+    "meaning": "常に最高を目指す姿勢が継続的な成長を生む",
+    "tags": [
+      "最高",
+      "基準",
+      "姿勢"
+    ],
+    "volume": 8,
+    "page": 22,
+    "episode": "24",
+    "animeSeason": 1,
+    "animeEpisode": 24
+  },
+  {
+    "quote": "どんな状況でも笑って戦う",
+    "chara": "星海光来",
+    "series": "ハイキュー！！",
+    "scene": "プレッシャーの中でも笑顔でプレーする場面",
+    "meaning": "笑顔で戦えることが最大のプレッシャー耐性を示す",
+    "tags": [
+      "笑顔",
+      "プレッシャー",
+      "戦う"
+    ],
+    "volume": 20,
+    "page": 55,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
+  },
+  {
+    "quote": "負けが悔しいと思えるようになった",
+    "chara": "月島蛍",
+    "series": "ハイキュー！！",
+    "scene": "バレーに本気になり負けを悔しいと感じる場面",
+    "meaning": "本気になったからこそ感じられる感情がある",
+    "tags": [
+      "悔しさ",
+      "本気",
+      "感情"
+    ],
+    "volume": 27,
+    "page": 33,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
   },
   {
     "quote": "全力でぶつかれば必ず道は開ける",
