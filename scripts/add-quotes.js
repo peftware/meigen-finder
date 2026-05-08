@@ -42,6 +42,11 @@ async function addQuotes() {
           '意味・教訓': q.meaning,
           'タグ': q.tags.join(','),
           'ステータス': '公開済み',
+          ...(q.volume    ? { '巻数': q.volume }          : {}),
+          ...(q.page      ? { 'ページ数': q.page }         : {}),
+          ...(q.episode   ? { '話数': q.episode }          : {}),
+          ...(q.animeSeason   ? { 'アニメシーズン': q.animeSeason }   : {}),
+          ...(q.animeEpisode  ? { 'アニメ話数': q.animeEpisode }      : {}),
         },
       }),
     });
