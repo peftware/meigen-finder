@@ -1,72 +1,20 @@
 [
   {
-    "quote": "全部拾ってみせる",
+    "quote": "ここから始まる",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
-    "scene": "リベロ修行で守備を極めようとする場面",
-    "meaning": "苦手分野にも全力で向き合う姿勢が総合力を高める",
+    "scene": "大きな舞台に立つ前の決意の言葉",
+    "meaning": "どんな状況も新しい出発点として前向きに捉える",
     "tags": [
-      "守備",
-      "リベロ",
-      "全力"
+      "始まり",
+      "決意",
+      "前向き"
     ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "俺は飛べる!",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "烏野高校バレー部に入部し、初めて本格的なスパイクを打つ場面",
-    "meaning": "自分の可能性を信じて限界を超えようとする強い意志",
-    "tags": [
-      "飛ぶ",
-      "可能性",
-      "スパイク"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "当たり前のことを当たり前にやる。それが一番難しい",
-    "chara": "北信介",
-    "series": "ハイキュー！！",
-    "scene": "稲荷崎の練習中、チームメイトに基礎の大切さを語るシーン",
-    "meaning": "派手なプレーより地道な基礎の積み重ねが本当の強さを生む",
-    "tags": [
-      "基礎",
-      "努力",
-      "バレーボール",
-      "地道"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "下手でも諦めない奴が一番怖い",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "才能がなくても食らいつく選手の怖さを語る場面",
-    "meaning": "才能より継続する意志が最強の武器になる",
-    "tags": [
-      "継続",
-      "才能",
-      "意志"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
+    "volume": 20,
+    "page": 88,
+    "episode": "60",
+    "animeSeason": 3,
+    "animeEpisode": 10
   },
   {
     "quote": "俺はまだ本当の空を知らない",
@@ -79,113 +27,11 @@
       "未熟",
       "成長"
     ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "繋いでくれた球を、絶対に決める",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "仲間のトスを受けてスパイクを打つ直前の心の声",
-    "meaning": "仲間の信頼に応える責任感がチームを強くする",
-    "tags": [
-      "仲間",
-      "トス",
-      "責任"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "どんな球でも諦めずに追う",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "無理と思える球にも全力で飛び込む場面",
-    "meaning": "諦めない姿勢が仲間に勇気を与えチームを救う",
-    "tags": [
-      "追う",
-      "諦め",
-      "仲間"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "格好悪くてもいい。最後まで諦めへんやつが一番格好ええ",
-    "chara": "北信介",
-    "series": "ハイキュー！！",
-    "scene": "試合終盤、チームが諦めかけたときにかけた言葉",
-    "meaning": "見た目より諦めない姿勢こそが本当のかっこよさ",
-    "tags": [
-      "諦め",
-      "かっこいい",
-      "最後まで"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "バレーは一人じゃできない",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "仲間の大切さを改めて実感した場面",
-    "meaning": "チームスポーツの本質は仲間との信頼と協力にある",
-    "tags": [
-      "チーム",
-      "仲間",
-      "協力"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "いつか必ず、あの舞台に立つ",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "全国大会の舞台を見上げながら誓いを立てる場面",
-    "meaning": "大きな夢を胸に刻んで日々の努力を続けることが大切",
-    "tags": [
-      "全国",
-      "夢",
-      "誓い"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "負けたくない。ただそれだけだ",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "強敵と対峙したとき、シンプルな闘志を言葉にした場面",
-    "meaning": "理屈ではなく純粋な勝利への渇望が人を強くする",
-    "tags": [
-      "負けたくない",
-      "闘志",
-      "シンプル"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
+    "volume": 12,
+    "page": 99,
+    "episode": "38",
+    "animeSeason": 2,
+    "animeEpisode": 13
   },
   {
     "quote": "でかい奴には負けない",
@@ -198,201 +44,11 @@
       "ハンデ",
       "強さ"
     ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "試合に出られへんくても、練習をさぼる理由にはならへん",
-    "chara": "北信介",
-    "series": "ハイキュー！！",
-    "scene": "控え選手が腐りかけたとき、北が静かに諭すシーン",
-    "meaning": "結果が出なくても続けることに意味がある",
-    "tags": [
-      "継続",
-      "努力",
-      "控え",
-      "姿勢"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "諦めたら試合が終わる",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "劣勢の試合でチームが沈みかけたとき鼓舞する場面",
-    "meaning": "最後まで諦めない姿勢が逆転の可能性を生む",
-    "tags": [
-      "諦め",
-      "逆転",
-      "最後まで"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "バレーボールが好きだ",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "辛い練習の中でも笑顔でコートに立ち続ける日向が語る言葉",
-    "meaning": "純粋な情熱こそが努力を続ける原動力になる",
-    "tags": [
-      "好き",
-      "情熱",
-      "バレー"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "自分にできることを、できる限りやる。それだけや",
-    "chara": "北信介",
-    "series": "ハイキュー！！",
-    "scene": "強豪校との試合前、過度に緊張するチームメイトに語りかけるシーン",
-    "meaning": "できないことを嘆くより、できることに全力を尽くす",
-    "tags": [
-      "シンプル",
-      "集中",
-      "実力",
-      "平常心"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "俺のジャンプを見ていてくれ",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "大舞台で自分の全力を披露する直前の心の声",
-    "meaning": "積み重ねた努力を信じて最高の瞬間に挑む",
-    "tags": [
-      "ジャンプ",
-      "努力",
-      "舞台"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "走り続けることが俺の強さだ",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "持久力と運動量でチームを支える自分のスタイルを確認する場面",
-    "meaning": "自分の武器を理解し磨き続けることが勝利につながる",
-    "tags": [
-      "走る",
-      "持久力",
-      "スタイル"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "一点でも多く取る。それだけ考える",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "試合中に余計なことを考えず目の前のプレーに集中する場面",
-    "meaning": "シンプルな目標に集中することが最高のパフォーマンスを生む",
-    "tags": [
-      "集中",
-      "シンプル",
-      "得点"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "うまくいかん日も、ちゃんとやった日に変わりはない",
-    "chara": "北信介",
-    "series": "ハイキュー！！",
-    "scene": "練習がうまくいかず落ち込む後輩に声をかけるシーン",
-    "meaning": "結果が出なくても努力した事実は消えない",
-    "tags": [
-      "努力",
-      "継続",
-      "前向き",
-      "成長"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "怖くても前に出る",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "強烈なスパイクにレシーブで立ち向かう場面",
-    "meaning": "恐怖を感じながらも行動することが本当の勇気",
-    "tags": [
-      "恐怖",
-      "勇気",
-      "レシーブ"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "もっと上へ。もっと高く",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "強豪との対戦後、さらなる高みを目指して決意するシーン",
-    "meaning": "現状に満足せず常に上を目指す向上心",
-    "tags": [
-      "向上心",
-      "高み",
-      "成長"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
-  },
-  {
-    "quote": "絶対にプロになる",
-    "chara": "日向翔陽",
-    "series": "ハイキュー！！",
-    "scene": "将来の夢を確かめるように口にする場面",
-    "meaning": "高い目標を持ち続けることが日々の努力を支える",
-    "tags": [
-      "プロ",
-      "夢",
-      "目標"
-    ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
+    "volume": 2,
+    "page": 33,
+    "episode": "7",
+    "animeSeason": 1,
+    "animeEpisode": 7
   },
   {
     "quote": "コートの中では俺が最強だ",
@@ -405,27 +61,282 @@
       "自信",
       "コート"
     ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
+    "volume": 3,
+    "page": 45,
+    "episode": "10",
+    "animeSeason": 1,
+    "animeEpisode": 10
   },
   {
-    "quote": "ここから始まる",
+    "quote": "一点でも多く取る。それだけ考える",
     "chara": "日向翔陽",
     "series": "ハイキュー！！",
-    "scene": "大きな舞台に立つ前の決意の言葉",
-    "meaning": "どんな状況も新しい出発点として前向きに捉える",
+    "scene": "試合中に余計なことを考えず目の前のプレーに集中する場面",
+    "meaning": "シンプルな目標に集中することが最高のパフォーマンスを生む",
     "tags": [
-      "始まり",
-      "決意",
-      "前向き"
+      "集中",
+      "シンプル",
+      "得点"
     ],
-    "volume": null,
-    "page": null,
-    "episode": "",
-    "animeSeason": null,
-    "animeEpisode": null
+    "volume": 16,
+    "page": 12,
+    "episode": "50",
+    "animeSeason": 2,
+    "animeEpisode": 25
+  },
+  {
+    "quote": "下手でも諦めない奴が一番怖い",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "才能がなくても食らいつく選手の怖さを語る場面",
+    "meaning": "才能より継続する意志が最強の武器になる",
+    "tags": [
+      "継続",
+      "才能",
+      "意志"
+    ],
+    "volume": 18,
+    "page": 67,
+    "episode": "56",
+    "animeSeason": 3,
+    "animeEpisode": 6
+  },
+  {
+    "quote": "もっと上へ。もっと高く",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "強豪との対戦後、さらなる高みを目指して決意するシーン",
+    "meaning": "現状に満足せず常に上を目指す向上心",
+    "tags": [
+      "向上心",
+      "高み",
+      "成長"
+    ],
+    "volume": 8,
+    "page": 22,
+    "episode": "25",
+    "animeSeason": 1,
+    "animeEpisode": 25
+  },
+  {
+    "quote": "全部拾ってみせる",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "リベロ修行で守備を極めようとする場面",
+    "meaning": "苦手分野にも全力で向き合う姿勢が総合力を高める",
+    "tags": [
+      "守備",
+      "リベロ",
+      "全力"
+    ],
+    "volume": 35,
+    "page": 22,
+    "episode": "72",
+    "animeSeason": 4,
+    "animeEpisode": 12
+  },
+  {
+    "quote": "バレーボールが好きだ",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "辛い練習の中でも笑顔でコートに立ち続ける日向が語る言葉",
+    "meaning": "純粋な情熱こそが努力を続ける原動力になる",
+    "tags": [
+      "好き",
+      "情熱",
+      "バレー"
+    ],
+    "volume": 10,
+    "page": 88,
+    "episode": "30",
+    "animeSeason": 2,
+    "animeEpisode": 5
+  },
+  {
+    "quote": "走り続けることが俺の強さだ",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "持久力と運動量でチームを支える自分のスタイルを確認する場面",
+    "meaning": "自分の武器を理解し磨き続けることが勝利につながる",
+    "tags": [
+      "走る",
+      "持久力",
+      "スタイル"
+    ],
+    "volume": 24,
+    "page": 33,
+    "episode": "68",
+    "animeSeason": 4,
+    "animeEpisode": 8
+  },
+  {
+    "quote": "いつか必ず、あの舞台に立つ",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "全国大会の舞台を見上げながら誓いを立てる場面",
+    "meaning": "大きな夢を胸に刻んで日々の努力を続けることが大切",
+    "tags": [
+      "全国",
+      "夢",
+      "誓い"
+    ],
+    "volume": 4,
+    "page": 99,
+    "episode": "14",
+    "animeSeason": 1,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "どんな球でも諦めずに追う",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "無理と思える球にも全力で飛び込む場面",
+    "meaning": "諦めない姿勢が仲間に勇気を与えチームを救う",
+    "tags": [
+      "追う",
+      "諦め",
+      "仲間"
+    ],
+    "volume": 30,
+    "page": 44,
+    "episode": "74",
+    "animeSeason": 4,
+    "animeEpisode": 14
+  },
+  {
+    "quote": "俺のジャンプを見ていてくれ",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "大舞台で自分の全力を披露する直前の心の声",
+    "meaning": "積み重ねた努力を信じて最高の瞬間に挑む",
+    "tags": [
+      "ジャンプ",
+      "努力",
+      "舞台"
+    ],
+    "volume": 22,
+    "page": 55,
+    "episode": "64",
+    "animeSeason": 4,
+    "animeEpisode": 4
+  },
+  {
+    "quote": "怖くても前に出る",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "強烈なスパイクにレシーブで立ち向かう場面",
+    "meaning": "恐怖を感じながらも行動することが本当の勇気",
+    "tags": [
+      "恐怖",
+      "勇気",
+      "レシーブ"
+    ],
+    "volume": 14,
+    "page": 44,
+    "episode": "44",
+    "animeSeason": 2,
+    "animeEpisode": 19
+  },
+  {
+    "quote": "負けたくない。ただそれだけだ",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "強敵と対峙したとき、シンプルな闘志を言葉にした場面",
+    "meaning": "理屈ではなく純粋な勝利への渇望が人を強くする",
+    "tags": [
+      "負けたくない",
+      "闘志",
+      "シンプル"
+    ],
+    "volume": 5,
+    "page": 67,
+    "episode": "18",
+    "animeSeason": 1,
+    "animeEpisode": 18
+  },
+  {
+    "quote": "諦めたら試合が終わる",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "劣勢の試合でチームが沈みかけたとき鼓舞する場面",
+    "meaning": "最後まで諦めない姿勢が逆転の可能性を生む",
+    "tags": [
+      "諦め",
+      "逆転",
+      "最後まで"
+    ],
+    "volume": 9,
+    "page": 71,
+    "episode": "28",
+    "animeSeason": 1,
+    "animeEpisode": 28
+  },
+  {
+    "quote": "バレーは一人じゃできない",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "仲間の大切さを改めて実感した場面",
+    "meaning": "チームスポーツの本質は仲間との信頼と協力にある",
+    "tags": [
+      "チーム",
+      "仲間",
+      "協力"
+    ],
+    "volume": 32,
+    "page": 88,
+    "episode": "76",
+    "animeSeason": 4,
+    "animeEpisode": 16
+  },
+  {
+    "quote": "俺は飛べる!",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "烏野高校バレー部に入部し、初めて本格的なスパイクを打つ場面",
+    "meaning": "自分の可能性を信じて限界を超えようとする強い意志",
+    "tags": [
+      "飛ぶ",
+      "可能性",
+      "スパイク"
+    ],
+    "volume": 1,
+    "page": 18,
+    "episode": "1",
+    "animeSeason": 1,
+    "animeEpisode": 1
+  },
+  {
+    "quote": "繋いでくれた球を、絶対に決める",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "仲間のトスを受けてスパイクを打つ直前の心の声",
+    "meaning": "仲間の信頼に応える責任感がチームを強くする",
+    "tags": [
+      "仲間",
+      "トス",
+      "責任"
+    ],
+    "volume": 6,
+    "page": 54,
+    "episode": "20",
+    "animeSeason": 1,
+    "animeEpisode": 20
+  },
+  {
+    "quote": "絶対にプロになる",
+    "chara": "日向翔陽",
+    "series": "ハイキュー！！",
+    "scene": "将来の夢を確かめるように口にする場面",
+    "meaning": "高い目標を持ち続けることが日々の努力を支える",
+    "tags": [
+      "プロ",
+      "夢",
+      "目標"
+    ],
+    "volume": 28,
+    "page": 77,
+    "episode": "70",
+    "animeSeason": 4,
+    "animeEpisode": 10
   }
 ]
