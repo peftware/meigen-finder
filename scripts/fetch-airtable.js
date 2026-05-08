@@ -39,7 +39,7 @@ async function fetchAllRecords() {
   do {
     const url = `https://api.airtable.com/v0/${BASE_ID}/${encodedTable}`
       + `?filterByFormula=${filterFormula}`
-      + `&fields[]=名言&fields[]=キャラクター&fields[]=作品名&fields[]=場面&fields[]=意味・教訓&fields[]=タグ`
+      + `&fields[]=名言&fields[]=キャラクター&fields[]=作品名&fields[]=場面&fields[]=意味・教訓&fields[]=タグ&fields[]=巻数&fields[]=ページ数&fields[]=話数&fields[]=アニメシーズン&fields[]=アニメ話数`
       + (offset ? `&offset=${offset}` : '');
 
     const res = await fetch(url, {
@@ -69,7 +69,12 @@ function toQuoteObject(record) {
     series:  (f['作品名']    || '').trim(),
     scene:   (f['場面']      || '').trim(),
     meaning: (f['意味・教訓'] || '').trim(),
-    tags:    Array.isArray(f['タグ']) ? f['タグ'] : [],
+    tags:    f['タグ'] ? f['タグ'].split(',').map(t => t.trim()) : [],
+    volume:  f['巻数']        || null,
+    page:    f['ページ数']    || null,
+    episode: (f['話数']       || '').trim(),
+    animeSeason: f['アニメシーズン'] || null,
+    animeEpisode: f['アニメ話数']   || null,
   };
 }
 
