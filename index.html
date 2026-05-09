@@ -305,7 +305,15 @@ async function loadData() {
 }
 
 function initTags() {
-  const allTags = [...new Set(ALL_DATA.flatMap(d => d.tags || []))].sort();
+  // タグの出現頻度を集計して上位30件だけ表示
+  const tagCount = {};
+  ALL_DATA.forEach(d => (d.tags || []).forEach(t => {
+    tagCount[t] = (tagCount[t] || 0) + 1;
+  }));
+  const allTags = Object.entries(tagCount)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 30)
+    .map(([tag]) => tag);
   const wrap = document.getElementById('tags');
   wrap.innerHTML = ['すべて', ...allTags].map(t =>
     `<button class="tag-btn${t === 'すべて' ? ' active' : ''}" data-tag="${t}">${t}</button>`
