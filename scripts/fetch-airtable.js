@@ -29,6 +29,23 @@ if (!API_KEY || !BASE_ID || !TABLE_NAME) {
   process.exit(1);
 }
 
+async function fetchWithRetry(url, options, retries = 3) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const res = await fetch(url, options);
+    if (res.ok) return res;
+
+    const body = await res.text();
+    // 429 (レート制限) や 5xx (サーバーエラー) はリトライ対象
+    if (attempt < retries && (res.status === 429 || res.status >= 500)) {
+      const wait = attempt * 2000;
+      console.warn(`Airtable API エラー (${res.status})、${wait / 1000}秒後にリトライ (${attempt}/${retries})...`);
+      await new Promise(r => setTimeout(r, wait));
+      continue;
+    }
+    throw new Error(`Airtable API エラー (${res.status}): ${body}`);
+  }
+}
+
 async function fetchAllRecords() {
   const records = [];
   let offset = undefined;
@@ -42,14 +59,9 @@ async function fetchAllRecords() {
       + `&fields[]=名言&fields[]=キャラクター&fields[]=作品名&fields[]=場面&fields[]=意味・教訓&fields[]=タグ&fields[]=巻数&fields[]=ページ数&fields[]=話数&fields[]=アニメシーズン&fields[]=アニメ話数`
       + (offset ? `&offset=${offset}` : '');
 
-    const res = await fetch(url, {
+    const res = await fetchWithRetry(url, {
       headers: { Authorization: `Bearer ${API_KEY}` },
     });
-
-    if (!res.ok) {
-      const body = await res.text();
-      throw new Error(`Airtable API エラー (${res.status}): ${body}`);
-    }
 
     const data = await res.json();
     records.push(...data.records);
@@ -69,7 +81,7 @@ function toQuoteObject(record) {
     series:  (f['作品名']    || '').trim(),
     scene:   (f['場面']      || '').trim(),
     meaning: (f['意味・教訓'] || '').trim(),
-    tags:    f['タグ'] ? f['タグ'].split(',').map(t => t.trim()) : [],
+    tags:    Array.isArray(f['タグ']) ? f['タグ'] : [],
     volume:  f['巻数']        || null,
     page:    f['ページ数']    || null,
     episode: (f['話数']       || '').trim(),
