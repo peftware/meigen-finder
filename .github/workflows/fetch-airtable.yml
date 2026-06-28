@@ -2,7 +2,7 @@ name: Airtable から名言データを同期
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
   push:
     branches: [main]
